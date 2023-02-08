@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,
+html {
+  font-family: OhouseSans, 'Noto Sans KR', 'Apple SD Gothic Neo', '맑은 고딕',
+    'Malgun Gothic', sans-serif;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ul,
+li,
+a,
+button {
+  all: unset;
+}

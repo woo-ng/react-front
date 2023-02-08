@@ -1,0 +1,46 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  width: var(--app-width);
+}
+.logo_svg {
+  margin-top: 27px;
+}
+.right_menu {
+  display: flex;
+  height: 30px;
+  padding-right: 0.4em;
+}
+.service {
+  display: flex;
+}
+.search_box {
+  width: 300px;
+}
+
+@media screen and (min-width: 785px) {
+  .service {
+    display: flex;
+    align-items: center;
+    color: #757575;
+    font-weight: bold;
+  }
+  .service ul li {
+    cursor: pointer;
+    &:nth-child(1) {
+      border-right: 1px solid #757575;
+      padding-right: 2px;
+    }
+
+    a {
+      margin: 0 9px 0 8px;
+      display: inline-block;
+    }
+
+    &:nth-child(3) {
+      border-left: 1px solid #757575;
+      display: none;
+    }
+  }
+}

@@ -1,0 +1,30 @@
+.css_1yqrra9 {
+  width: min-content;
+  margin: auto;
+}
+
+.css_2qd0l8 {
+  flex: 1 1 0%;
+  text-align: center;
+}
+
+.css_1511w17 {
+  max-width: 88px;
+}
+
+.css_xd55zv {
+  display: block;
+  margin-top: 8px;
+}
+
+@media (min-width: 768px) {
+  .css_1yqrra9 {
+    padding: 0px 40px;
+  }
+  .css_1702gi6 {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin: 30px 0px 40px;
+  }
+}
