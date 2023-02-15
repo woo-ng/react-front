@@ -36,7 +36,6 @@ export default function App() {
       <Header />
       <main>
         <Swiper
-          style={{ width: '960px' }}
           spaceBetween={30}
           centeredSlides={true}
           autoplay={{

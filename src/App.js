@@ -1,7 +1,7 @@
 import { createBrowserHistory } from 'history';
 import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import './App.css';
+import './App.scss';
 import Main from './component/layout/Main';
 
 const history = createBrowserHistory();

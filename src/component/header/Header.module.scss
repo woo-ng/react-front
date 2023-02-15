@@ -2,7 +2,8 @@
   display: flex;
   justify-content: space-between;
   margin: auto;
-  width: var(--app-width);
+  max-width: var(--app-width);
+  min-width: var(--app-min-width);
 }
 .logo_svg {
   margin-top: 27px;
