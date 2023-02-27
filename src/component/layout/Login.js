@@ -10,14 +10,14 @@ function Login() {
   function handleLogin() {
     fetch('/member/login.do', {
       method: 'POST',
-      body: JSON.stringify({ memberId, memberPw }),
+      body: JSON.stringify({ member_id: memberId, member_pw: memberPw }),
       headers: {
         'Content-Type': 'application/json',
       },
     })
       .then((response) => {
         if (response.ok) {
-          // handle successful login
+          window.location.href = '/main';
         } else {
           setLoginResult('사용자 ID 또는 비밀번호를 잘못 입력하셨습니다.');
         }
