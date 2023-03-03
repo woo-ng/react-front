@@ -17,10 +17,14 @@ function Login() {
     })
       .then((response) => {
         if (response.ok) {
-          window.location.href = '/main';
+          return response.json();
         } else {
           setLoginResult('사용자 ID 또는 비밀번호를 잘못 입력하셨습니다.');
         }
+      })
+      .then((data) => {
+        sessionStorage.setItem('userData', JSON.stringify(data));
+        window.location.href = '/main';
       })
       .catch((error) => {
         console.error(error);

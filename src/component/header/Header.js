@@ -13,6 +13,13 @@ import styles from './Header.module.scss';
 import { Link } from 'react-router-dom';
 
 const Header = () => {
+  const userData = sessionStorage.getItem('userData') ?? '{}';
+  const user = JSON.parse(userData);
+
+  const handleLogout = () => {
+    sessionStorage.removeItem('userData');
+    window.location.href = '/main';
+  };
   return (
     <>
       <BrowserView className={styles.header}>
@@ -32,18 +39,27 @@ const Header = () => {
               <input type="text" placeholder="통합검색"></input>
             </div>
           </div>
-
           <div className={styles.right_menu}>
             <a href>
               <i className="fas fa-shopping-cart"></i>
             </a>
             <ul className="flex">
-              <li>
-                <Link to="/sign_in">로그인</Link>
-              </li>
-              <li>
-                <a href>회원가입</a>
-              </li>
+              {user.member_id ? (
+                <>
+                  <div>{user.member_name}님 환영합니다.</div>
+                  <button onClick={handleLogout}>로그아웃</button>
+                </>
+              ) : (
+                <>
+                  <li>
+                    <Link to="/sign_in">로그인</Link>
+                  </li>
+                  <li>
+                    <a href>회원가입</a>
+                  </li>
+                </>
+              )}
+
               <div className="header-upper__lists openWriteMenu"></div>
               <ToggleMenu className="header-upper__writeBt" title="글쓰기">
                 <a className="css-1n4nww" href="new">

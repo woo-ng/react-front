@@ -12,6 +12,7 @@ const App = () => {
     <BrowserRouter history={history}>
       <Routes>
         <Route path="/*" element={<Main />}></Route>
+        <Route path="/sign_in" element={<Login />}></Route>
       </Routes>
     </BrowserRouter>
   );

@@ -1,0 +1,3885 @@
+{
+    "cs_time": "1670-0876\n09:00~18:00",
+    "banner_contents": [
+    {
+    "content_type": "inbound",
+    "content_id": 0,
+    "outbound_url": "https://events.ohou.se/promotions/o-season-week-benefit",
+    "pc_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/banners/home_banner/167541490449911576.png"
+    },
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167541487927528169.png/1440/none",
+    "img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167541487927528169.png/2560/none"
+    },
+    {
+    "content_type": "Advice",
+    "content_id": 8543,
+    "outbound_url": "",
+    "pc_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/banners/home_banner/167593370735261556.png"
+    },
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167593369595890708.png/1440/none",
+    "img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167593369595890708.png/2560/none"
+    },
+    {
+    "content_type": "Exhibition",
+    "content_id": 10447,
+    "outbound_url": "",
+    "pc_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/banners/home_banner/167541458309405613.png"
+    },
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167541457551420147.png/1440/none",
+    "img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167541457551420147.png/2560/none"
+    },
+    {
+    "content_type": "inbound",
+    "content_id": 879,
+    "outbound_url": "https://ohou.se/experts/moving?affect_type=MovingHomeBanner",
+    "pc_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/banners/home_banner/167481040451649201.png"
+    },
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167481039408782584.png/1440/none",
+    "img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167481039408782584.png/2560/none"
+    },
+    {
+    "content_type": "Exhibition",
+    "content_id": 10368,
+    "outbound_url": "",
+    "pc_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/banners/home_banner/167601865028937662.png"
+    },
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167601864291779759.png/1440/none",
+    "img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167601864291779759.png/2560/none"
+    },
+    {
+    "content_type": "Exhibition",
+    "content_id": 10448,
+    "outbound_url": "https://ohou.se/events/promotions/thank-offering?outbound=false&click_action_type=webview",
+    "pc_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/banners/home_banner/167601866590105639.png"
+    },
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167601866027008350.png/1440/none",
+    "img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167601866027008350.png/2560/none"
+    },
+    {
+    "content_type": "Competition",
+    "content_id": 903,
+    "outbound_url": "",
+    "pc_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/banners/home_banner/167541468415274769.png"
+    },
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167541466757743597.png/1440/none",
+    "img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167541466757743597.png/2560/none"
+    },
+    {
+    "content_type": "Competition",
+    "content_id": 896,
+    "outbound_url": "",
+    "pc_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/banners/home_banner/167515099372288499.png"
+    },
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167515098318858224.png/1440/none",
+    "img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167515098318858224.png/2560/none"
+    },
+    {
+    "content_type": "Exhibition",
+    "content_id": 10162,
+    "outbound_url": "",
+    "pc_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/banners/home_banner/164992755565792180.png"
+    },
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-164992754983147211.png/1440/none",
+    "img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-164992754983147211.png/2560/none"
+    },
+    {
+    "content_type": "Competition",
+    "content_id": 360,
+    "outbound_url": "",
+    "pc_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/banners/home_banner/167515101678684444.png"
+    },
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167515100828503004.png/1440/none",
+    "img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167515100828503004.png/2560/none"
+    },
+    {
+    "content_type": "Competition",
+    "content_id": 902,
+    "outbound_url": "",
+    "pc_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/banners/home_banner/167481071463996733.png"
+    },
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167481069771230816.png/1440/none",
+    "img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-167481069771230816.png/2560/none"
+    },
+    {
+    "content_type": "Competition",
+    "content_id": 897,
+    "outbound_url": "",
+    "pc_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/banners/home_banner/166694889965027078.jpg"
+    },
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-166694889330306916.jpg/1440/none",
+    "img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-home_banner-166694889330306916.jpg/2560/none"
+    }
+    ],
+    "shortcut_items": [
+    {
+    "id": 943,
+    "link_url": "https://ohou.se/store",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/shortcut/home_feed_shortcut_sets/167262690767101882.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167262690767101882.png/512/none",
+    "label": "쇼핑하기",
+    "update_alert": false,
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167262690767101882.png/512/none"
+    },
+    {
+    "id": 1074,
+    "link_url": "https://store.ohou.se/exhibitions/10008",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/shortcut/home_feed_shortcut_sets/167560796594045726.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167560796594045726.png/512/none",
+    "label": "오!굿즈",
+    "update_alert": false,
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167560796594045726.png/512/none"
+    },
+    {
+    "id": 816,
+    "link_url": "https://store.ohou.se/today_deals",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/shortcut/home_feed_shortcut_sets/167198007152582471.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167198007152582471.png/512/none",
+    "label": "오늘의딜",
+    "update_alert": false,
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167198007152582471.png/512/none"
+    },
+    {
+    "id": 817,
+    "link_url": "https://contents.ohou.se/lifestyles?subjectId=28",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/shortcut/home_feed_shortcut_sets/167505411234148010.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167505411234148010.png/512/none",
+    "label": "취향의발견",
+    "update_alert": false,
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167505411234148010.png/512/none"
+    },
+    {
+    "id": 818,
+    "link_url": "https://ohou.se/store/category?category=24",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/shortcut/home_feed_shortcut_sets/167198009533480922.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167198009533480922.png/512/none",
+    "label": "식품관",
+    "update_alert": false,
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167198009533480922.png/512/none"
+    },
+    {
+    "id": 819,
+    "link_url": "https://ohou.se/projects?writer=self",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/shortcut/home_feed_shortcut_sets/167198010271968429.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167198010271968429.png/512/none",
+    "label": "집들이",
+    "update_alert": false,
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167198010271968429.png/512/none"
+    },
+    {
+    "id": 820,
+    "link_url": "https://ohou.se/competitions/816",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/shortcut/home_feed_shortcut_sets/167198011151662026.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167198011151662026.png/512/none",
+    "label": "꿀잼시리즈",
+    "update_alert": false,
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167198011151662026.png/512/none"
+    },
+    {
+    "id": 821,
+    "link_url": "https://ohou.se/exhibitions/10017",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/shortcut/home_feed_shortcut_sets/167198012024333402.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167198012024333402.png/512/none",
+    "label": "빠른배송",
+    "update_alert": false,
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167198012024333402.png/512/none"
+    },
+    {
+    "id": 822,
+    "link_url": "https://ohou.se/experts/moving",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/shortcut/home_feed_shortcut_sets/167198021046015480.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167198021046015480.png/512/none",
+    "label": "쉬운이사",
+    "update_alert": false,
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167198021046015480.png/512/none"
+    },
+    {
+    "id": 823,
+    "link_url": "https://ohou.se/experts/v2/pre_consultations/new?expertise=5",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/shortcut/home_feed_shortcut_sets/167198022841390557.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167198022841390557.png/512/none",
+    "label": "리모델링",
+    "update_alert": false,
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-shortcut-home_feed_shortcut_sets-167198022841390557.png/512/none"
+    }
+    ],
+    "selected_stories": [
+    {
+    "content_type": "Project",
+    "content_id": 135022,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167289293205242559.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167289293205242559.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167289293205242559.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167289293205242559.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167289293205242559.jpg/1280/none",
+    "title1": "질리지 않아🤍디자이너의 신혼집",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [
+    {
+    "type": "area",
+    "label": "20평대"
+    },
+    {
+    "type": "family",
+    "label": "신혼부부"
+    }
+    ],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 774401,
+    "nickname": "baesubin",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166687975041470709.JPG",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166687975041470709.JPG/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166687975041470709.JPG",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166687975041470709.JPG/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-166687975041470709.JPG/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Project",
+    "content_id": 135551,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167466248721961262.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167466248721961262.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167466248721961262.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167466248721961262.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167466248721961262.jpg/1280/none",
+    "title1": "미니멀 워너비 디자이너의 4평",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "공간 활용👍",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [
+    {
+    "type": "area",
+    "label": "10평 미만"
+    },
+    {
+    "type": "expertise",
+    "label": "홈스타일링"
+    }
+    ],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 2949156,
+    "nickname": "일요일.주먹밥",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/167610823241971794.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-167610823241971794.jpeg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/167610823241971794.jpeg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-167610823241971794.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-167610823241971794.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Project",
+    "content_id": 136062,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167601878614316240.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167601878614316240.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167601878614316240.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167601878614316240.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167601878614316240.jpg/1280/none",
+    "title1": "수납력 좋은 화이트홈",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "깔끔한 게 최고!",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [
+    {
+    "type": "area",
+    "label": "30평대"
+    },
+    {
+    "type": "family",
+    "label": "취학 자녀와 함께"
+    }
+    ],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 61566,
+    "nickname": "reenhaus",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/167531742724202726.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-167531742724202726.jpeg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/167531742724202726.jpeg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-167531742724202726.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-167531742724202726.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Project",
+    "content_id": 132864,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167362101302613792.JPG",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167362101302613792.JPG/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167362101302613792.JPG",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167362101302613792.JPG/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167362101302613792.JPG/1280/none",
+    "title1": "24평 신축 아파트",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "미니멀=생활습관✨",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [
+    {
+    "type": "area",
+    "label": "20평대"
+    },
+    {
+    "type": "expertise",
+    "label": "홈스타일링"
+    }
+    ],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 7366489,
+    "nickname": "꿀빵홈",
+    "original_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images1584342798_648285.jpeg/1440/none",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images1584342798_648285.jpeg/1280/none",
+    "raw_profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images1584342798_648285.jpeg/1440/none",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images1584342798_648285.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images1584342798_648285.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Project",
+    "content_id": 134510,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167179878360849764.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167179878360849764.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167179878360849764.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167179878360849764.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167179878360849764.jpg/1280/none",
+    "title1": "33평 신축 홈스타일링",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "공간활용, 넓게넓게↔",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [
+    {
+    "type": "area",
+    "label": "30평대"
+    },
+    {
+    "type": "expertise",
+    "label": "홈스타일링"
+    }
+    ],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 6788980,
+    "nickname": "라니부부",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/167160021207377065.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-167160021207377065.jpeg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/167160021207377065.jpeg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-167160021207377065.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-167160021207377065.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Project",
+    "content_id": 134702,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167360250690958342.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167360250690958342.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167360250690958342.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167360250690958342.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167360250690958342.jpg/1280/none",
+    "title1": "밝고 분위기 있는 신혼집으로!",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "30평대 신축 아파트",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [
+    {
+    "type": "area",
+    "label": "30평대"
+    },
+    {
+    "type": "family",
+    "label": "신혼부부"
+    }
+    ],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 17285085,
+    "nickname": "nana_home",
+    "original_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-1646380769_kakao_427251749.jpg/1440/none",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-1646380769_kakao_427251749.jpg/1280/none",
+    "raw_profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-1646380769_kakao_427251749.jpg/1440/none",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-1646380769_kakao_427251749.jpg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-1646380769_kakao_427251749.jpg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Project",
+    "content_id": 134301,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167376250152906788.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167376250152906788.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167376250152906788.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167376250152906788.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167376250152906788.jpg/1280/none",
+    "title1": "국민 평수 리모델링👀깔끔 완벽 34평",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [
+    {
+    "type": "area",
+    "label": "30평대"
+    },
+    {
+    "type": "family",
+    "label": "취학 자녀와 함께"
+    }
+    ],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 5365906,
+    "nickname": "슈팅-스타",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166308344021715923.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166308344021715923.jpeg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166308344021715923.jpeg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166308344021715923.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-166308344021715923.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Project",
+    "content_id": 135141,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167461595763826219.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167461595763826219.png/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167461595763826219.png",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167461595763826219.png/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167461595763826219.png/1280/none",
+    "title1": "프렌치 무드 구축 오피스텔",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "시트지로 완성✨",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [
+    {
+    "type": "area",
+    "label": "10평 미만"
+    },
+    {
+    "type": "family",
+    "label": "싱글라이프"
+    }
+    ],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 19515532,
+    "nickname": "rosedamda",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166962791974782064.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166962791974782064.jpeg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166962791974782064.jpeg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166962791974782064.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-166962791974782064.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Project",
+    "content_id": 134697,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167266299211727085.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167266299211727085.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167266299211727085.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167266299211727085.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167266299211727085.jpg/1280/none",
+    "title1": "31평 반셀프 리모델링",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "어두운 우드+화이트의 조화",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [
+    {
+    "type": "area",
+    "label": "30평대"
+    },
+    {
+    "type": "expertise",
+    "label": "리모델링"
+    }
+    ],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 1889857,
+    "nickname": "mauixox",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166541792957658674.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166541792957658674.jpeg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166541792957658674.jpeg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166541792957658674.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-166541792957658674.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Project",
+    "content_id": 135529,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167376788504319916.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167376788504319916.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167376788504319916.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167376788504319916.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167376788504319916.jpg/1280/none",
+    "title1": "보는 재미 있는 신혼집",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "공간마다 달라요",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [
+    {
+    "type": "area",
+    "label": "30평대"
+    },
+    {
+    "type": "family",
+    "label": "신혼부부"
+    }
+    ],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 5117855,
+    "nickname": "chlo22",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/167602437288291380.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-167602437288291380.jpg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/167602437288291380.jpg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-167602437288291380.jpg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-167602437288291380.jpg/80/80",
+    "userable_type": "NormalUser"
+    }
+    }
+    ],
+    "modules": [
+    {
+    "type": "Story",
+    "id": "Story/9093",
+    "data": {
+    "title": "볼수록 마음에 드는 우리집 👑",
+    "url": "https://ohou.se/projects?writer=self&family=2%5E3%5E5",
+    "id": 9093,
+    "position": 3,
+    "idx": 1,
+    "segment": null,
+    "contents": [
+    {
+    "content_type": "Project",
+    "content_id": 134301,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167376250152906788.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167376250152906788.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167376250152906788.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167376250152906788.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167376250152906788.jpg/1280/none",
+    "title1": "깔끔 완벽 34평",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "국민 평수 리모델링👀",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 5365906,
+    "nickname": "슈팅-스타",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166308344021715923.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166308344021715923.jpeg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166308344021715923.jpeg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166308344021715923.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-166308344021715923.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Project",
+    "content_id": 136062,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167601878614316240.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167601878614316240.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167601878614316240.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167601878614316240.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167601878614316240.jpg/1280/none",
+    "title1": "수납력 좋은 화이트홈",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "깔끔한 게 최고!",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 61566,
+    "nickname": "reenhaus",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/167531742724202726.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-167531742724202726.jpeg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/167531742724202726.jpeg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-167531742724202726.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-167531742724202726.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Project",
+    "content_id": 132864,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167362101302613792.JPG",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167362101302613792.JPG/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167362101302613792.JPG",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167362101302613792.JPG/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167362101302613792.JPG/1280/none",
+    "title1": "24평 신축 아파트",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "미니멀=생활습관✨",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 7366489,
+    "nickname": "꿀빵홈",
+    "original_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images1584342798_648285.jpeg/1440/none",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images1584342798_648285.jpeg/1280/none",
+    "raw_profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images1584342798_648285.jpeg/1440/none",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images1584342798_648285.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images1584342798_648285.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Project",
+    "content_id": 135022,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167289293205242559.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167289293205242559.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/167289293205242559.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167289293205242559.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-167289293205242559.jpg/1280/none",
+    "title1": "🤍디자이너의 20평대",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "질리지 않는 집",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 774401,
+    "nickname": "baesubin",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166687975041470709.JPG",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166687975041470709.JPG/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166687975041470709.JPG",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166687975041470709.JPG/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-166687975041470709.JPG/80/80",
+    "userable_type": "NormalUser"
+    }
+    }
+    ]
+    }
+    },
+    {
+    "type": "Story",
+    "id": "Story/9096",
+    "data": {
+    "title": "설레는 밸런타인 데이 💗",
+    "url": "https://contents.ohou.se/lifestyles?subjectId=28",
+    "id": 9096,
+    "position": 6,
+    "idx": 2,
+    "segment": null,
+    "contents": [
+    {
+    "content_type": "Advice",
+    "content_id": 8475,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/advices/167474821374835343.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-167474821374835343.png/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/advices/167474821374835343.png",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-167474821374835343.png/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-167474821374835343.png/1280/none",
+    "title1": "밸런타인데이 선물 추천7",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "집순&집돌이 애인을 위한💕",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 13712098,
+    "nickname": "내일은힙스터",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/164692327443976213.gif",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-164692327443976213.gif/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/164692327443976213.gif",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-164692327443976213.gif/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-164692327443976213.gif/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Advice",
+    "content_id": 8179,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/advices/167203491351357365.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-167203491351357365.jpeg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/advices/167203491351357365.jpeg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-167203491351357365.jpeg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-167203491351357365.jpeg/1280/none",
+    "title1": "매일 질문받는 향수들 4",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "복숭아부터 비누향까지",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 7670641,
+    "nickname": "fragrant-life",
+    "original_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166535814390738367.jpeg/1440/none",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166535814390738367.jpeg/1280/none",
+    "raw_profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166535814390738367.jpeg/1440/none",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166535814390738367.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-166535814390738367.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Advice",
+    "content_id": 7935,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/advices/166918441425400548.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-166918441425400548.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/advices/166918441425400548.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-166918441425400548.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-166918441425400548.jpg/1280/none",
+    "title1": "비주얼 + 맛 다잡은 케이크 7 🍰",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "홈파티의 주인공!",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 8204561,
+    "nickname": "iHope2",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166857009631520796.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166857009631520796.jpeg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166857009631520796.jpeg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166857009631520796.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-166857009631520796.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Advice",
+    "content_id": 8441,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/advices/167462436272409223.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-167462436272409223.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/advices/167462436272409223.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-167462436272409223.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-167462436272409223.jpg/1280/none",
+    "title1": "기념일 인싸 만드는 신박한 꽃다발 6",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "이런 게 있어? 👀",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 16430,
+    "nickname": "오늘의집 에디터",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/1530271073759_97xu7t.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-1530271073759_97xu7t.jpg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/1530271073759_97xu7t.jpg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-1530271073759_97xu7t.jpg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-1530271073759_97xu7t.jpg/80/80",
+    "userable_type": "NormalUser"
+    }
+    }
+    ]
+    }
+    },
+    {
+    "type": "Story",
+    "id": "Story/9099",
+    "data": {
+    "title": "주말에 끝내는 1분 컷 정리! 🧹",
+    "url": "https://contents.ohou.se/lifestyles?subjectId=3",
+    "id": 9099,
+    "position": 9,
+    "idx": 3,
+    "segment": null,
+    "contents": [
+    {
+    "content_type": "Advice",
+    "content_id": 8487,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167566871663441143.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167566871663441143.png/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167566871663441143.png",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167566871663441143.png/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167566871663441143.png/1280/none",
+    "title1": "청소용으로 쓸 수 있답니다 😉",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "유통기한 지난 화장품",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 11198724,
+    "nickname": "1분생활꿀팁",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/160758822452433365.gif",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-160758822452433365.gif/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/160758822452433365.gif",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-160758822452433365.gif/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-160758822452433365.gif/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Advice",
+    "content_id": 8488,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167567235118681997.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167567235118681997.png/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167567235118681997.png",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167567235118681997.png/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167567235118681997.png/1280/none",
+    "title1": "변기 청소를 해도 소용 없다구?!",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "물통이 더러우면 ",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 11198724,
+    "nickname": "1분생활꿀팁",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/160758822452433365.gif",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-160758822452433365.gif/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/160758822452433365.gif",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-160758822452433365.gif/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-160758822452433365.gif/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Advice",
+    "content_id": 8489,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167567411884374000.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167567411884374000.png/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167567411884374000.png",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167567411884374000.png/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167567411884374000.png/1280/none",
+    "title1": "사이즈별로 깔.끔.하게 정리하는 법",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "신발장 속 우산 🌂",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 11198724,
+    "nickname": "1분생활꿀팁",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/160758822452433365.gif",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-160758822452433365.gif/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/160758822452433365.gif",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-160758822452433365.gif/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-160758822452433365.gif/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Advice",
+    "content_id": 8490,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167530346252490240.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167530346252490240.png/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167530346252490240.png",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167530346252490240.png/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167530346252490240.png/1280/none",
+    "title1": "오히려 돈낭비? '이렇게' 해보세요",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "보일러 외출모드",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 11198724,
+    "nickname": "1분생활꿀팁",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/160758822452433365.gif",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-160758822452433365.gif/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/160758822452433365.gif",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-160758822452433365.gif/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-160758822452433365.gif/80/80",
+    "userable_type": "NormalUser"
+    }
+    }
+    ]
+    }
+    },
+    {
+    "type": "Story",
+    "id": "Story/9102",
+    "data": {
+    "title": "잘 꾸미고, 잘 찍어둘래요 💁‍♀️",
+    "url": "https://contents.ohou.se/lifestyles?subjectId=26",
+    "id": 9102,
+    "position": 12,
+    "idx": 4,
+    "segment": null,
+    "contents": [
+    {
+    "content_type": "Advice",
+    "content_id": 8464,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/advices/167456268389302477.JPG",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-167456268389302477.JPG/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/advices/167456268389302477.JPG",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-167456268389302477.JPG/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-167456268389302477.JPG/1280/none",
+    "title1": "인테리어 사진 찍는 TIP",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "우리집을 기록하는 방법",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 19208832,
+    "nickname": "522_HOME",
+    "original_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166597852776358539.jpeg/1440/none",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166597852776358539.jpeg/1280/none",
+    "raw_profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166597852776358539.jpeg/1440/none",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166597852776358539.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-166597852776358539.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Advice",
+    "content_id": 6052,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/164630370663220140.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-164630370663220140.jpeg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/164630370663220140.jpeg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-164630370663220140.jpeg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-164630370663220140.jpeg/1280/none",
+    "title1": "감성 포인트 만드는 5가지 방법",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "벽에 구멍 없이 ",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 942687,
+    "nickname": "윤솜_",
+    "original_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-162708571535048003.jpeg/1440/none",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-162708571535048003.jpeg/1280/none",
+    "raw_profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-162708571535048003.jpeg/1440/none",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-162708571535048003.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-162708571535048003.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Project",
+    "content_id": 122854,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/166138296042787226.JPG",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-166138296042787226.JPG/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/166138296042787226.JPG",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-166138296042787226.JPG/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-166138296042787226.JPG/1280/none",
+    "title1": "디자이너의 14평 오피스텔",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "깔끔한데 포인트도 있다! ",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 122632,
+    "nickname": "nanasan_home",
+    "original_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166120708268295630.png/1440/none",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166120708268295630.png/1280/none",
+    "raw_profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166120708268295630.png/1440/none",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166120708268295630.png/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-166120708268295630.png/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Advice",
+    "content_id": 7456,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/advices/166426366920059136.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-166426366920059136.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/advices/166426366920059136.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-166426366920059136.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-166426366920059136.jpg/1280/none",
+    "title1": "감성 포스터를 만들어보세요 📸",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "직접 찍은 사진으로",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 677882,
+    "nickname": "옥또inHK",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/163020092138755785.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-163020092138755785.jpeg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/163020092138755785.jpeg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-163020092138755785.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-163020092138755785.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    }
+    ]
+    }
+    },
+    {
+    "type": "Category",
+    "id": "Category/1",
+    "data": {
+    "categories": [
+    {
+    "id": 10000000,
+    "title": "가구",
+    "hash": "0",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-165698403420736265.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/165698403420736265.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-165698403420736265.png/1280/none",
+    "count": 232526,
+    "has_featured_html": false,
+    "item_desc": "소파,침대..."
+    },
+    {
+    "id": 18000000,
+    "title": "패브릭",
+    "hash": "1",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-166010553870408108.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/166010553870408108.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-166010553870408108.png/1280/none",
+    "count": 122507,
+    "has_featured_html": false,
+    "item_desc": "침구,커튼..."
+    },
+    {
+    "id": 14000000,
+    "title": "가전·디지털",
+    "hash": "3",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-166072985530266073.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/166072985530266073.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-166072985530266073.png/1280/none",
+    "count": 75606,
+    "has_featured_html": false,
+    "item_desc": "냉장고,노트북..."
+    },
+    {
+    "id": 16000000,
+    "title": "주방용품",
+    "hash": "5",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-165443714334272236.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/165443714334272236.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-165443714334272236.png/1280/none",
+    "count": 207715,
+    "has_featured_html": false,
+    "item_desc": "그릇,냄비..."
+    },
+    {
+    "id": 31000000,
+    "title": "식품",
+    "hash": "24",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-166727583625644946.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/166727583625644946.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-166727583625644946.png/1280/none",
+    "count": 9443,
+    "has_featured_html": false,
+    "item_desc": "과일,밀키트..."
+    },
+    {
+    "id": 11000000,
+    "title": "데코·식물",
+    "hash": "2",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-167167019685810067.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/167167019685810067.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-167167019685810067.png/1280/none",
+    "count": 227242,
+    "has_featured_html": false,
+    "item_desc": "그림,캔들..."
+    },
+    {
+    "id": 28000000,
+    "title": "조명",
+    "hash": "27",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-165443713935676588.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/165443713935676588.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-165443713935676588.png/1280/none",
+    "count": 48180,
+    "has_featured_html": false,
+    "item_desc": "스탠드,무드등..."
+    },
+    {
+    "id": 13000000,
+    "title": "수납·정리",
+    "hash": "11",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-165443714917341657.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/165443714917341657.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-165443714917341657.png/1280/none",
+    "count": 50546,
+    "has_featured_html": false,
+    "item_desc": "리빙박스,행거..."
+    },
+    {
+    "id": 12000000,
+    "title": "생활용품",
+    "hash": "4",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-165519431107541334.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/165519431107541334.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-165519431107541334.png/1280/none",
+    "count": 33139,
+    "has_featured_html": false,
+    "item_desc": "욕실,청소..."
+    },
+    {
+    "id": 23000000,
+    "title": "생필품",
+    "hash": "21",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-165579048228622395.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/165579048228622395.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-165579048228622395.png/1280/none",
+    "count": 25845,
+    "has_featured_html": false,
+    "item_desc": "세제,화장지..."
+    },
+    {
+    "id": 27000000,
+    "title": "유아·아동",
+    "hash": "26",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-166598560990637620.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/166598560990637620.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-166598560990637620.png/1280/none",
+    "count": 42651,
+    "has_featured_html": false,
+    "item_desc": "매트,기저귀..."
+    },
+    {
+    "id": 15000000,
+    "title": "반려동물",
+    "hash": "8",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-162823231401891024.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/162823231401891024.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-162823231401891024.png/1280/none",
+    "count": 30309,
+    "has_featured_html": false,
+    "item_desc": "사료,패션..."
+    },
+    {
+    "id": 32000000,
+    "title": "캠핑·레저",
+    "hash": "28",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-167273265381710686.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/167273265381710686.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-167273265381710686.png/1280/none",
+    "count": 35825,
+    "has_featured_html": false,
+    "item_desc": "텐트,헬스..."
+    },
+    {
+    "id": 19000000,
+    "title": "공구·DIY",
+    "hash": "6",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-162823230480918647.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/162823230480918647.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-162823230480918647.png/1280/none",
+    "count": 61258,
+    "has_featured_html": false,
+    "item_desc": "시트지,손잡이..."
+    },
+    {
+    "id": 17000000,
+    "title": "인테리어시공",
+    "hash": "7",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-162823230908544036.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/162823230908544036.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-162823230908544036.png/1280/none",
+    "count": 3755,
+    "has_featured_html": false,
+    "item_desc": "주방,욕실..."
+    },
+    {
+    "id": 26000000,
+    "title": "렌탈",
+    "hash": "25",
+    "image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-166597743167902408.png/1280/none",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/category/store_home_categories/166597743167902408.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-category-store_home_categories-166597743167902408.png/1280/none",
+    "count": 5467,
+    "has_featured_html": false,
+    "item_desc": "정수기,비데..."
+    }
+    ]
+    }
+    },
+    {
+    "type": "TodayDeal",
+    "id": "TodayDeal/1",
+    "data": {
+    "today_deals": [
+    {
+    "start_at": "2023-02-13T00:00:00.000+09:00",
+    "end_at": "2023-02-14T00:00:00.000+09:00",
+    "title": "[단하루,10%쿠폰+사은품] 부드러운 카스테라 항균 옥수수솜 간절기/사계절 차렵이불세트",
+    "production": {
+    "type": "Production",
+    "review_avg": 4.7,
+    "review_count": 14933,
+    "id": 767440,
+    "name": "[단하루,10%쿠폰+사은품] 부드러운 카스테라 항균 옥수수솜 간절기/사계절 차렵이불세트",
+    "scrap_count": 122427,
+    "view_count": 0,
+    "used_card_count": 10772,
+    "selling_price": 35900,
+    "original_price": 79800,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167168822852557476.jpg",
+    "resized_image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167168822852557476.jpg/2560/2560",
+    "status": 4,
+    "week_rank": 0,
+    "delivery_type": 1,
+    "user_id": 7631570,
+    "brand": {
+    "id": 27419,
+    "name": "헬로우슬립"
+    },
+    "is_departure_today": false,
+    "delivery_start_at": null,
+    "badges": [],
+    "benefit_badges": [],
+    "is_cheapest_price": false,
+    "is_special_price": true,
+    "is_hidden": false,
+    "is_delivery_date_specified": false,
+    "is_retail_delivery": false,
+    "is_third_party_logistic": false,
+    "delivery_service_code": "NORMAL",
+    "is_selling": true,
+    "is_sold_out": false,
+    "is_scrap": false,
+    "is_free_delivery": false,
+    "is_discontinued": false,
+    "is_overseas_purchase": false,
+    "is_buyable": true,
+    "is_consultable": false,
+    "is_remodel": false,
+    "is_discounted": false,
+    "is_bespoke": false,
+    "brand_id": 27419,
+    "brand_name": "헬로우슬립",
+    "raw_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167168822852557476.jpg",
+    "image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167168822852557476.jpg/2560/2560",
+    "wish_count": 122427,
+    "selling_cost": 35900,
+    "cost": 79800,
+    "selling": true,
+    "sold_out": false,
+    "lowest_guarantee": false,
+    "is_wish": false,
+    "free_delivery": false
+    }
+    },
+    {
+    "start_at": "2023-02-13T00:00:00.000+09:00",
+    "end_at": "2023-02-14T00:00:00.000+09:00",
+    "title": "[쿠폰가 28,900원] 무형광 호텔수건 고중량 200g 10장 수건세트 (리본포장)",
+    "production": {
+    "type": "Production",
+    "review_avg": 4.65,
+    "review_count": 6118,
+    "id": 346468,
+    "name": "[쿠폰가 28,900원] 무형광 호텔수건 고중량 200g 10장 수건세트 (리본포장)",
+    "scrap_count": 8995,
+    "view_count": 0,
+    "used_card_count": 3290,
+    "selling_price": 29900,
+    "original_price": 49000,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/160609952629740171.jpg",
+    "resized_image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-160609952629740171.jpg/2560/2560",
+    "status": 4,
+    "week_rank": 0,
+    "delivery_type": 0,
+    "user_id": 1851358,
+    "brand": {
+    "id": 6984,
+    "name": "테리파머"
+    },
+    "is_departure_today": false,
+    "delivery_start_at": null,
+    "badges": [],
+    "benefit_badges": [],
+    "is_cheapest_price": false,
+    "is_special_price": true,
+    "is_hidden": false,
+    "is_delivery_date_specified": false,
+    "is_retail_delivery": false,
+    "is_third_party_logistic": false,
+    "delivery_service_code": "NORMAL",
+    "is_selling": true,
+    "is_sold_out": false,
+    "is_scrap": false,
+    "is_free_delivery": true,
+    "is_discontinued": false,
+    "is_overseas_purchase": false,
+    "is_buyable": true,
+    "is_consultable": false,
+    "is_remodel": false,
+    "is_discounted": false,
+    "is_bespoke": false,
+    "brand_id": 6984,
+    "brand_name": "테리파머",
+    "raw_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/160609952629740171.jpg",
+    "image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-160609952629740171.jpg/2560/2560",
+    "wish_count": 8995,
+    "selling_cost": 29900,
+    "cost": 49000,
+    "selling": true,
+    "sold_out": false,
+    "lowest_guarantee": false,
+    "is_wish": false,
+    "free_delivery": true
+    }
+    },
+    {
+    "start_at": "2023-02-13T00:00:00.000+09:00",
+    "end_at": "2023-02-14T00:00:00.000+09:00",
+    "title": "[1+1+1] 2.13 단하루! 네추럴라이즈 캐나다 꾸미 영양제 60정*3입 (총180정)",
+    "production": {
+    "type": "Production",
+    "review_avg": 4.8,
+    "review_count": 38,
+    "id": 1758157,
+    "name": "[1+1+1] 2.13 단하루! 네추럴라이즈 캐나다 꾸미 영양제 60정*3입 (총180정)",
+    "scrap_count": 218,
+    "view_count": 0,
+    "used_card_count": 22,
+    "selling_price": 21900,
+    "original_price": 47700,
+    "original_image_url": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/18548930/1671513005527.jpg",
+    "resized_image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-18548930-1671513005527.jpg/2560/2560",
+    "status": 4,
+    "week_rank": 0,
+    "delivery_type": 0,
+    "user_id": 18548930,
+    "brand": {
+    "id": 59741,
+    "name": "네추럴라이즈"
+    },
+    "is_departure_today_exp": "B",
+    "is_departure_today": true,
+    "delivery_start_at": {
+    "template": {
+    "text": "평일 %s까지 결제시",
+    "values": [
+    "12:00"
+    ]
+    }
+    },
+    "badges": [],
+    "benefit_badges": [],
+    "is_cheapest_price": false,
+    "is_special_price": true,
+    "is_hidden": false,
+    "is_delivery_date_specified": false,
+    "is_retail_delivery": false,
+    "is_third_party_logistic": false,
+    "delivery_service_code": "NORMAL",
+    "is_selling": true,
+    "is_sold_out": false,
+    "is_scrap": false,
+    "is_free_delivery": true,
+    "is_discontinued": false,
+    "is_overseas_purchase": false,
+    "is_buyable": true,
+    "is_consultable": false,
+    "is_remodel": false,
+    "is_discounted": false,
+    "is_bespoke": false,
+    "brand_id": 59741,
+    "brand_name": "네추럴라이즈",
+    "raw_image_url": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/18548930/1671513005527.jpg",
+    "image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-18548930-1671513005527.jpg/2560/2560",
+    "wish_count": 218,
+    "selling_cost": 21900,
+    "cost": 47700,
+    "selling": true,
+    "sold_out": false,
+    "lowest_guarantee": false,
+    "is_wish": false,
+    "free_delivery": true
+    }
+    },
+    {
+    "start_at": "2023-02-13T00:00:00.000+09:00",
+    "end_at": "2023-02-14T00:00:00.000+09:00",
+    "title": "100% 천연라텍스 안셀 고무장갑 10개입 9,900원 초특가(2colors/2size)",
+    "production": {
+    "type": "Production",
+    "review_avg": 5,
+    "review_count": 5,
+    "id": 1218714,
+    "name": "100% 천연라텍스 안셀 고무장갑 10개입 9,900원 초특가(2colors/2size)",
+    "scrap_count": 24,
+    "view_count": 0,
+    "used_card_count": 0,
+    "selling_price": 9900,
+    "original_price": 32800,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167590431782061406.jpg",
+    "resized_image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167590431782061406.jpg/2560/2560",
+    "status": 4,
+    "week_rank": 0,
+    "delivery_type": 0,
+    "user_id": 13057478,
+    "brand": {
+    "id": 40398,
+    "name": "안셀"
+    },
+    "is_departure_today": false,
+    "delivery_start_at": null,
+    "badges": [],
+    "benefit_badges": [],
+    "is_cheapest_price": false,
+    "is_special_price": true,
+    "is_hidden": false,
+    "is_delivery_date_specified": false,
+    "is_retail_delivery": false,
+    "is_third_party_logistic": false,
+    "delivery_service_code": "NORMAL",
+    "is_selling": true,
+    "is_sold_out": false,
+    "is_scrap": false,
+    "is_free_delivery": true,
+    "is_discontinued": false,
+    "is_overseas_purchase": false,
+    "is_buyable": true,
+    "is_consultable": false,
+    "is_remodel": false,
+    "is_discounted": false,
+    "is_bespoke": false,
+    "brand_id": 40398,
+    "brand_name": "안셀",
+    "raw_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167590431782061406.jpg",
+    "image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167590431782061406.jpg/2560/2560",
+    "wish_count": 24,
+    "selling_cost": 9900,
+    "cost": 32800,
+    "selling": true,
+    "sold_out": false,
+    "lowest_guarantee": false,
+    "is_wish": false,
+    "free_delivery": true
+    }
+    },
+    {
+    "start_at": "2023-02-13T00:00:00.000+09:00",
+    "end_at": "2023-02-14T00:00:00.000+09:00",
+    "title": "[쿠폰가 16,826원] 베이직 원목 옷걸이 30p",
+    "production": {
+    "type": "Production",
+    "review_avg": 4.73,
+    "review_count": 412,
+    "id": 1301278,
+    "name": "[쿠폰가 16,826원] 베이직 원목 옷걸이 30p",
+    "scrap_count": 1643,
+    "view_count": 0,
+    "used_card_count": 269,
+    "selling_price": 17900,
+    "original_price": 26900,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167046879256447642.jpg",
+    "resized_image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167046879256447642.jpg/2560/2560",
+    "status": 4,
+    "week_rank": 0,
+    "delivery_type": 0,
+    "user_id": 532304,
+    "brand": {
+    "id": 428,
+    "name": "홈앤하우스"
+    },
+    "is_departure_today": false,
+    "delivery_start_at": null,
+    "badges": [],
+    "benefit_badges": [],
+    "is_cheapest_price": false,
+    "is_special_price": true,
+    "is_hidden": false,
+    "is_delivery_date_specified": false,
+    "is_retail_delivery": false,
+    "is_third_party_logistic": false,
+    "delivery_service_code": "NORMAL",
+    "is_selling": true,
+    "is_sold_out": false,
+    "is_scrap": false,
+    "is_free_delivery": true,
+    "is_discontinued": false,
+    "is_overseas_purchase": false,
+    "is_buyable": true,
+    "is_consultable": false,
+    "is_remodel": false,
+    "is_discounted": false,
+    "is_bespoke": false,
+    "brand_id": 428,
+    "brand_name": "홈앤하우스",
+    "raw_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167046879256447642.jpg",
+    "image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167046879256447642.jpg/2560/2560",
+    "wish_count": 1643,
+    "selling_cost": 17900,
+    "cost": 26900,
+    "selling": true,
+    "sold_out": false,
+    "lowest_guarantee": false,
+    "is_wish": false,
+    "free_delivery": true
+    }
+    },
+    {
+    "start_at": "2023-02-13T00:00:00.000+09:00",
+    "end_at": "2023-02-14T00:00:00.000+09:00",
+    "title": "[오늘의딜] NEW이안빅 1200 옷장 슬라이딩 수납장 (행거/선반형) 3colors",
+    "production": {
+    "type": "Production",
+    "review_avg": 4.35,
+    "review_count": 1234,
+    "id": 346955,
+    "name": "[오늘의딜] NEW이안빅 1200 옷장 슬라이딩 수납장 (행거/선반형) 3colors",
+    "scrap_count": 23514,
+    "view_count": 0,
+    "used_card_count": 910,
+    "selling_price": 199000,
+    "original_price": 439000,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167564560425438408.jpg",
+    "resized_image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167564560425438408.jpg/2560/2560",
+    "status": 4,
+    "week_rank": 0,
+    "delivery_type": 2,
+    "user_id": 879644,
+    "brand": {
+    "id": 3228,
+    "name": "레이디가구"
+    },
+    "is_departure_today": false,
+    "delivery_start_at": null,
+    "badges": [],
+    "benefit_badges": [],
+    "is_cheapest_price": false,
+    "is_special_price": true,
+    "is_hidden": false,
+    "is_delivery_date_specified": false,
+    "is_retail_delivery": false,
+    "is_third_party_logistic": false,
+    "delivery_service_code": "SELLER",
+    "is_selling": true,
+    "is_sold_out": false,
+    "is_scrap": false,
+    "is_free_delivery": false,
+    "is_discontinued": false,
+    "is_overseas_purchase": false,
+    "is_buyable": true,
+    "is_consultable": false,
+    "is_remodel": false,
+    "is_discounted": false,
+    "is_bespoke": false,
+    "brand_id": 3228,
+    "brand_name": "레이디가구",
+    "raw_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167564560425438408.jpg",
+    "image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167564560425438408.jpg/2560/2560",
+    "wish_count": 23514,
+    "selling_cost": 199000,
+    "cost": 439000,
+    "selling": true,
+    "sold_out": false,
+    "lowest_guarantee": false,
+    "is_wish": false,
+    "free_delivery": false
+    }
+    },
+    {
+    "start_at": "2023-02-13T00:00:00.000+09:00",
+    "end_at": "2023-02-14T00:00:00.000+09:00",
+    "title": "풍수 황금 24K 으로 만든 해바라기 그림 액자",
+    "production": {
+    "type": "Production",
+    "review_avg": 4.88,
+    "review_count": 137,
+    "id": 1481388,
+    "name": "풍수 황금 24K 으로 만든 해바라기 그림 액자",
+    "scrap_count": 1088,
+    "view_count": 0,
+    "used_card_count": 48,
+    "selling_price": 56050,
+    "original_price": 99000,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165866299944875404.jpg",
+    "resized_image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165866299944875404.jpg/2560/2560",
+    "status": 4,
+    "week_rank": 0,
+    "delivery_type": 2,
+    "user_id": 18462662,
+    "brand": {
+    "id": 51734,
+    "name": "하우스뮤지엄"
+    },
+    "is_departure_today": false,
+    "delivery_start_at": null,
+    "badges": [],
+    "benefit_badges": [],
+    "is_cheapest_price": false,
+    "is_special_price": true,
+    "is_hidden": false,
+    "is_delivery_date_specified": false,
+    "is_retail_delivery": false,
+    "is_third_party_logistic": false,
+    "delivery_service_code": "NORMAL",
+    "is_selling": true,
+    "is_sold_out": false,
+    "is_scrap": false,
+    "is_free_delivery": false,
+    "is_discontinued": false,
+    "is_overseas_purchase": false,
+    "is_buyable": true,
+    "is_consultable": false,
+    "is_remodel": false,
+    "is_discounted": false,
+    "is_bespoke": false,
+    "brand_id": 51734,
+    "brand_name": "하우스뮤지엄",
+    "raw_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165866299944875404.jpg",
+    "image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165866299944875404.jpg/2560/2560",
+    "wish_count": 1088,
+    "selling_cost": 56050,
+    "cost": 99000,
+    "selling": true,
+    "sold_out": false,
+    "lowest_guarantee": false,
+    "is_wish": false,
+    "free_delivery": false
+    }
+    },
+    {
+    "start_at": "2023-02-13T00:00:00.000+09:00",
+    "end_at": "2023-02-14T00:00:00.000+09:00",
+    "title": "[30%쿠폰/★원데이특가★] 믹스매치 워셔블 타원 원형 포인트 거실 러그카페트 4size",
+    "production": {
+    "type": "Production",
+    "review_avg": 4.84,
+    "review_count": 268,
+    "id": 1660883,
+    "name": "[30%쿠폰/★원데이특가★] 믹스매치 워셔블 타원 원형 포인트 거실 러그카페트 4size",
+    "scrap_count": 5343,
+    "view_count": 0,
+    "used_card_count": 136,
+    "selling_price": 12800,
+    "original_price": 39900,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166666065305826075.jpg",
+    "resized_image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166666065305826075.jpg/2560/2560",
+    "status": 4,
+    "week_rank": 0,
+    "delivery_type": 0,
+    "user_id": 523521,
+    "brand": {
+    "id": 414,
+    "name": "한일카페트"
+    },
+    "is_departure_today": false,
+    "delivery_start_at": null,
+    "badges": [],
+    "benefit_badges": [],
+    "is_cheapest_price": false,
+    "is_special_price": true,
+    "is_hidden": false,
+    "is_delivery_date_specified": false,
+    "is_retail_delivery": false,
+    "is_third_party_logistic": false,
+    "delivery_service_code": "NORMAL",
+    "is_selling": true,
+    "is_sold_out": false,
+    "is_scrap": false,
+    "is_free_delivery": true,
+    "is_discontinued": false,
+    "is_overseas_purchase": false,
+    "is_buyable": true,
+    "is_consultable": false,
+    "is_remodel": false,
+    "is_discounted": false,
+    "is_bespoke": false,
+    "brand_id": 414,
+    "brand_name": "한일카페트",
+    "raw_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166666065305826075.jpg",
+    "image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166666065305826075.jpg/2560/2560",
+    "wish_count": 5343,
+    "selling_cost": 12800,
+    "cost": 39900,
+    "selling": true,
+    "sold_out": false,
+    "lowest_guarantee": false,
+    "is_wish": false,
+    "free_delivery": true
+    }
+    },
+    {
+    "start_at": "2023-02-13T00:00:00.000+09:00",
+    "end_at": "2023-02-14T00:00:00.000+09:00",
+    "title": "1+1 섬유향수 섬유탈취제 룸스프레이 멀티 대용량 500ml",
+    "production": {
+    "type": "Production",
+    "review_avg": 4.89,
+    "review_count": 217,
+    "id": 1687043,
+    "name": "1+1 섬유향수 섬유탈취제 룸스프레이 멀티 대용량 500ml",
+    "scrap_count": 765,
+    "view_count": 0,
+    "used_card_count": 131,
+    "selling_price": 11600,
+    "original_price": 26000,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167056146083380310.jpg",
+    "resized_image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167056146083380310.jpg/2560/2560",
+    "status": 4,
+    "week_rank": 0,
+    "delivery_type": 0,
+    "user_id": 4278986,
+    "brand": {
+    "id": 55661,
+    "name": "센티카"
+    },
+    "is_departure_today": false,
+    "delivery_start_at": null,
+    "badges": [
+    {
+    "id": 2888220,
+    "thumbnail_badge_id": 1649848405,
+    "position": 3,
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/164984839473493224.png",
+    "width": null,
+    "height": null
+    }
+    }
+    ],
+    "benefit_badges": [],
+    "is_cheapest_price": false,
+    "is_special_price": true,
+    "is_hidden": false,
+    "is_delivery_date_specified": false,
+    "is_retail_delivery": false,
+    "is_third_party_logistic": false,
+    "delivery_service_code": "NORMAL",
+    "is_selling": true,
+    "is_sold_out": false,
+    "is_scrap": false,
+    "is_free_delivery": true,
+    "is_discontinued": false,
+    "is_overseas_purchase": false,
+    "is_buyable": true,
+    "is_consultable": false,
+    "is_remodel": false,
+    "is_discounted": false,
+    "is_bespoke": false,
+    "brand_id": 55661,
+    "brand_name": "센티카",
+    "raw_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167056146083380310.jpg",
+    "image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167056146083380310.jpg/2560/2560",
+    "wish_count": 765,
+    "selling_cost": 11600,
+    "cost": 26000,
+    "selling": true,
+    "sold_out": false,
+    "lowest_guarantee": false,
+    "is_wish": false,
+    "free_delivery": true
+    }
+    },
+    {
+    "start_at": "2023-02-13T00:00:00.000+09:00",
+    "end_at": "2023-02-14T00:00:00.000+09:00",
+    "title": "[오늘의딜](무료시공) 판매1위 맞춤제작 블라인드 시스템 드레스룸 9colors",
+    "production": {
+    "type": "Production",
+    "review_avg": 4.58,
+    "review_count": 5224,
+    "id": 121821,
+    "name": "[오늘의딜](무료시공) 판매1위 맞춤제작 블라인드 시스템 드레스룸 9colors",
+    "scrap_count": 91720,
+    "view_count": 0,
+    "used_card_count": 4040,
+    "selling_price": 8100,
+    "original_price": 13900,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167541399774113855.gif",
+    "resized_image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167541399774113855.gif/2560/2560",
+    "status": 4,
+    "week_rank": 0,
+    "delivery_type": 0,
+    "user_id": 4163271,
+    "brand": {
+    "id": 11190,
+    "name": "큐브"
+    },
+    "is_departure_today": false,
+    "delivery_start_at": null,
+    "badges": [],
+    "benefit_badges": [],
+    "is_cheapest_price": false,
+    "is_special_price": true,
+    "is_hidden": false,
+    "is_delivery_date_specified": false,
+    "is_retail_delivery": false,
+    "is_third_party_logistic": false,
+    "delivery_service_code": "SELLER",
+    "is_selling": true,
+    "is_sold_out": false,
+    "is_scrap": false,
+    "is_free_delivery": true,
+    "is_discontinued": false,
+    "is_overseas_purchase": false,
+    "is_buyable": true,
+    "is_consultable": false,
+    "is_remodel": false,
+    "is_discounted": false,
+    "is_bespoke": true,
+    "brand_id": 11190,
+    "brand_name": "큐브",
+    "raw_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167541399774113855.gif",
+    "image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167541399774113855.gif/2560/2560",
+    "wish_count": 91720,
+    "selling_cost": 8100,
+    "cost": 13900,
+    "selling": true,
+    "sold_out": false,
+    "lowest_guarantee": false,
+    "is_wish": false,
+    "free_delivery": true
+    }
+    }
+    ],
+    "total_count": 827,
+    "max_discount": 99.4857,
+    "banner": {
+    "original_image_url": "https://bucketplace-v2-development.s3-ap-northeast-1.amazonaws.com/static/store/today_deal_banner_210714.gif",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/static-store-today_deal_banner_210714.gif/2560/none"
+    }
+    }
+    },
+    {
+    "type": "AdBanner",
+    "id": "AdBanner/1",
+    "data": {
+    "ad_banners": [
+    {
+    "content_type": "outbound",
+    "content_id": null,
+    "outbound_url": "https://events.ohou.se/promotions/o-season-week-benefit",
+    "banner_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-home-marketing-167576313774840018.png/698/none",
+    "banner_background": "#FFFFFF",
+    "mobile_banner_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-home-marketing-167576315573352463.png/2560/none"
+    }
+    ]
+    }
+    },
+    {
+    "type": "Story",
+    "id": "Story/9105",
+    "data": {
+    "title": "우리집 반려가족을 위한 팁 🐕‍🦺",
+    "url": "https://contents.ohou.se/lifestyles?subjectId=8",
+    "id": 9105,
+    "position": 15,
+    "idx": 5,
+    "segment": null,
+    "contents": [
+    {
+    "content_type": "Advice",
+    "content_id": 4976,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/162641745094098638.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-162641745094098638.png/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/162641745094098638.png",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-162641745094098638.png/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-162641745094098638.png/1280/none",
+    "title1": "깔끔수납 하는 방법! #꿀템대방출",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "반려동물용품",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 9378357,
+    "nickname": "살림하는에디터",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/default_images/avatar.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-default_images-avatar.png/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/default_images/avatar.png",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-default_images-avatar.png/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-default_images-avatar.png/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Advice",
+    "content_id": 3725,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/advices/cover_images/159278972465672761.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-advices-cover_images-159278972465672761.jpg/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/advices/cover_images/159278972465672761.jpg",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-advices-cover_images-159278972465672761.jpg/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-advices-cover_images-159278972465672761.jpg/1280/none",
+    "title1": "안전한 식물 리스트 40",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "반려동물과 키워도",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 6372864,
+    "nickname": "지름길 내비에디터",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/157944462100431311.JPG",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-157944462100431311.JPG/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/157944462100431311.JPG",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-157944462100431311.JPG/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-157944462100431311.JPG/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Project",
+    "content_id": 87743,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/164808933454707532.JPG",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-164808933454707532.JPG/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/projects/164808933454707532.JPG",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-164808933454707532.JPG/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-projects-164808933454707532.JPG/1280/none",
+    "title1": "사이좋게 공존하는 우리집",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "식물과 반려동물이 ",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 8059471,
+    "nickname": "hyeinsight",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/1587518513_kakao_976745528.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-1587518513_kakao_976745528.jpg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/1587518513_kakao_976745528.jpg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-1587518513_kakao_976745528.jpg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-1587518513_kakao_976745528.jpg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Advice",
+    "content_id": 6791,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/165815195602005295.jfif",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-165815195602005295.jfif/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/165815195602005295.jfif",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-165815195602005295.jfif/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-165815195602005295.jfif/1280/none",
+    "title1": " 있는 집의 필수템",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "👶아이 & 🐶반려동물",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 13888442,
+    "nickname": "오!리뷰어",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/165657751386774195.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-165657751386774195.png/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/165657751386774195.png",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-165657751386774195.png/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-165657751386774195.png/80/80",
+    "userable_type": "NormalUser"
+    }
+    }
+    ]
+    }
+    },
+    {
+    "type": "Story",
+    "id": "Story/9108",
+    "data": {
+    "title": "당 충전! 달달구리 모음.zip 🍫",
+    "url": "https://contents.ohou.se/lifestyles?subjectId=20",
+    "id": 9108,
+    "position": 18,
+    "idx": 6,
+    "segment": null,
+    "contents": [
+    {
+    "content_type": "Advice",
+    "content_id": 8482,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167595482027071101.gif",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167595482027071101.gif/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167595482027071101.gif",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167595482027071101.gif/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167595482027071101.gif/1280/none",
+    "title1": "먹잘알 pick 🤎 뻥튀기 초코 샌드",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "앞으로 뻥튀기는 이렇게",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 13712094,
+    "nickname": "오늘의식탁레시피",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166928600957304473.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166928600957304473.jpeg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166928600957304473.jpeg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166928600957304473.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-166928600957304473.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Advice",
+    "content_id": 8163,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167279879146292144.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167279879146292144.png/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167279879146292144.png",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167279879146292144.png/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167279879146292144.png/1280/none",
+    "title1": "귀여운 눈사람 쿠키 만들기☃️",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "다이소템으로 초간단! ",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 13712094,
+    "nickname": "오늘의식탁레시피",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166928600957304473.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166928600957304473.jpeg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166928600957304473.jpeg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166928600957304473.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-166928600957304473.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Advice",
+    "content_id": 8481,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167601715380914056.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167601715380914056.png/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/projects/cover_images/167601715380914056.png",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167601715380914056.png/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-projects-cover_images-167601715380914056.png/1280/none",
+    "title1": "오레오로 브라우니 만드는 법",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "진짜 신박하고 쉬워요!",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 13712094,
+    "nickname": "오늘의식탁레시피",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166928600957304473.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166928600957304473.jpeg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166928600957304473.jpeg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166928600957304473.jpeg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-166928600957304473.jpeg/80/80",
+    "userable_type": "NormalUser"
+    }
+    },
+    {
+    "content_type": "Advice",
+    "content_id": 7917,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/advices/166909587546074148.png",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-166909587546074148.png/1280/none",
+    "raw_cover_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/advices/166909587546074148.png",
+    "cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-166909587546074148.png/1440/none",
+    "cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-cards-advices-166909587546074148.png/1280/none",
+    "title1": "홈카페 열어봐요 ☕+🎂=😍",
+    "title2": "",
+    "sub_title": "",
+    "blue_title": "당 충전이 필요한 날",
+    "is_new": false,
+    "cell_type": "small",
+    "metadata": [],
+    "is_before_after": false,
+    "before_image_url": "",
+    "after_image_url": "",
+    "description": "",
+    "is_video": false,
+    "is_scrap": false,
+    "writer": {
+    "id": 19467827,
+    "nickname": "주희네홈카페",
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/167031114065050935.jpg",
+    "resized_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-167031114065050935.jpg/1280/none",
+    "raw_profile_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/167031114065050935.jpg",
+    "profile_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-167031114065050935.jpg/1440/none",
+    "profile_img_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-users-profile_images-167031114065050935.jpg/80/80",
+    "userable_type": "NormalUser"
+    }
+    }
+    ]
+    }
+    },
+    {
+    "type": "PopularCardCollection",
+    "id": "PopularCardCollection/20230213",
+    "data": {
+    "card_collections": [
+    {
+    "id": 18705383,
+    "on_hide": false,
+    "card_count": 4,
+    "like_count": 11,
+    "scrap_count": 13,
+    "share_count": 3,
+    "reply_count": 2,
+    "view_count": 777,
+    "total_like_count": 13,
+    "total_scrap_count": 28,
+    "total_share_count": 3,
+    "total_reply_count": 2,
+    "total_view_count": 1324,
+    "size": {
+    "label": "10평대",
+    "value": 1
+    },
+    "residence": {
+    "label": "빌라&연립",
+    "value": 2
+    },
+    "style": {
+    "label": "내추럴 스타일",
+    "value": 3
+    },
+    "first_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167611015539128262.jpeg",
+    "created_at": "2023-02-11T19:09:23.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "user": {
+    "id": 4800083,
+    "nickname": "2yujin22",
+    "userable_type": "NormalUser",
+    "userable_id": 4841469,
+    "introduction": "인스타-@2yujin22 / 유튜브-유진이의 사부작",
+    "url": "https://www.instagram.com/2yujin22/",
+    "profile_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/164856228812729554.jpeg",
+    "width": null,
+    "height": null
+    },
+    "cover_image": {
+    "url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-cover_images-159015220665197970.jpg/1440/none",
+    "width": null,
+    "height": null
+    },
+    "is_following": false
+    },
+    "cards": [
+    {
+    "id": 23359542,
+    "type": "CardImage",
+    "description": "오늘의 우리집",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167611015215868641.jpeg",
+    "width": 3024,
+    "height": 3024
+    },
+    "source": null,
+    "reply_count": 0,
+    "scrap_count": 12,
+    "like_count": 1,
+    "view_count": 238,
+    "share_count": 0,
+    "place": {
+    "label": "침실",
+    "value": 2
+    },
+    "style": {
+    "label": "",
+    "value": null
+    },
+    "title": null,
+    "created_at": "2023-02-11T19:09:23.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "video": null,
+    "keywords": [
+    "오늘의우리집",
+    "침대",
+    "침실",
+    "책상",
+    "의자",
+    "수납장",
+    "서랍장",
+    "노트북",
+    "인형",
+    "쿠션",
+    "액자",
+    "포스터",
+    "무드등",
+    "시계"
+    ]
+    }
+    ]
+    },
+    {
+    "id": 18704046,
+    "on_hide": false,
+    "card_count": 5,
+    "like_count": 29,
+    "scrap_count": 30,
+    "share_count": 0,
+    "reply_count": 0,
+    "view_count": 383,
+    "total_like_count": 29,
+    "total_scrap_count": 32,
+    "total_share_count": 0,
+    "total_reply_count": 0,
+    "total_view_count": 551,
+    "size": {
+    "label": "10평대",
+    "value": 1
+    },
+    "residence": {
+    "label": "원룸&오피스텔",
+    "value": 0
+    },
+    "style": {
+    "label": "프로방스&로맨틱 스타일",
+    "value": 4
+    },
+    "first_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167610379181797169.jpeg",
+    "created_at": "2023-02-11T17:23:27.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "user": {
+    "id": 1490842,
+    "nickname": "메르시제이",
+    "userable_type": "NormalUser",
+    "userable_id": 1536709,
+    "introduction": "작지만 아늑한 싱글라이프 ",
+    "url": "",
+    "profile_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166213636166363709.jpeg",
+    "width": null,
+    "height": null
+    },
+    "cover_image": {
+    "url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-cover_images-163515695096492595.jpeg/1440/none",
+    "width": null,
+    "height": null
+    },
+    "is_following": false
+    },
+    "cards": [
+    {
+    "id": 23358092,
+    "type": "CardImage",
+    "description": "봄을 알리는 비가 그치고 맑아진 날~\n귀여운 꽃화분을 데려왔어요~🌸🌼\n봄 느낌 물씬 나서 안데려올수가 없었네요~\n\n계절이 바뀌니 또 인테리어 바꾸고 싶은데 좁은 네모공간은 한계가 있네요 😅😂\n\n주말 이리저리 옮기며 또 혼자 바쁠 예정이에요??\n식물들 이제 거실 답답해 하는거 같아서\n베란다로 조금씩 내보내고 바람 쐬 줘야겠어요🪴\n\n즐거운 주말 보내세요~👋\n",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167610378805579734.jpeg",
+    "width": 1440,
+    "height": 1800
+    },
+    "source": null,
+    "reply_count": 0,
+    "scrap_count": 27,
+    "like_count": 0,
+    "view_count": 64,
+    "share_count": 0,
+    "place": {
+    "label": "원룸",
+    "value": 0
+    },
+    "style": {
+    "label": "",
+    "value": null
+    },
+    "title": null,
+    "created_at": "2023-02-11T17:23:27.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "video": null,
+    "keywords": [
+    "복층인테리어",
+    "복층원룸",
+    "플렌테리어",
+    "가드닝",
+    "봄인테리어"
+    ]
+    }
+    ]
+    },
+    {
+    "id": 18708363,
+    "on_hide": false,
+    "card_count": 7,
+    "like_count": 7,
+    "scrap_count": 2,
+    "share_count": 0,
+    "reply_count": 1,
+    "view_count": 214,
+    "total_like_count": 7,
+    "total_scrap_count": 2,
+    "total_share_count": 0,
+    "total_reply_count": 1,
+    "total_view_count": 273,
+    "size": {
+    "label": "30평대",
+    "value": 3
+    },
+    "residence": {
+    "label": "아파트",
+    "value": 1
+    },
+    "style": {
+    "label": "프로방스&로맨틱 스타일",
+    "value": 4
+    },
+    "first_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/167611910505537862.jpeg",
+    "created_at": "2023-02-11T23:10:15.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "user": {
+    "id": 11505000,
+    "nickname": "또니라이프",
+    "userable_type": "NormalUser",
+    "userable_id": 11539534,
+    "introduction": "안녕하세요 ◡̈ 똥꼬발랄 19갤 딸래미와함께 살고 있어요",
+    "url": "https://www.instagram.com/oooo_iiio",
+    "profile_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/167014262529063734.jpeg",
+    "width": null,
+    "height": null
+    },
+    "cover_image": {
+    "url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-default_images-default_user_cover1.jpg/1440/none",
+    "width": null,
+    "height": null
+    },
+    "is_following": false
+    },
+    "cards": [
+    {
+    "id": 23362726,
+    "type": "CardImage",
+    "description": "패밀리침대 실패작!패밀리침대 고를때 주의사항!\n\n임신했을때 구매한것중 하나가 패밀리 침대인데요\n이쁘고 소재좋고 청소도쉬운 부분만 고르다보니 안정성을 놓쳤더라고요\n\n그래서 지금은 퀸+슈퍼싱글 사이즈중 하나는 처분했어요\n",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/167611910505537862.jpeg",
+    "width": 3024,
+    "height": 4032
+    },
+    "source": null,
+    "reply_count": 0,
+    "scrap_count": 0,
+    "like_count": 0,
+    "view_count": 11,
+    "share_count": 0,
+    "place": {
+    "label": "침실",
+    "value": 2
+    },
+    "style": {
+    "label": "",
+    "value": null
+    },
+    "title": null,
+    "created_at": "2023-02-11T23:10:15.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "video": null,
+    "keywords": [
+    "오라이프",
+    "취미일상",
+    "육아",
+    "아기방꾸미기",
+    "아기방꾸미기소품",
+    "워킹맘",
+    "도치맘",
+    "아기쿠션",
+    "임신",
+    "출산"
+    ]
+    }
+    ]
+    },
+    {
+    "id": 18703867,
+    "on_hide": false,
+    "card_count": 3,
+    "like_count": 4,
+    "scrap_count": 3,
+    "share_count": 1,
+    "reply_count": 0,
+    "view_count": 268,
+    "total_like_count": 4,
+    "total_scrap_count": 3,
+    "total_share_count": 1,
+    "total_reply_count": 0,
+    "total_view_count": 291,
+    "size": {
+    "label": "20평대",
+    "value": 2
+    },
+    "residence": {
+    "label": "아파트",
+    "value": 1
+    },
+    "style": {
+    "label": "유니크 스타일",
+    "value": 7
+    },
+    "first_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/167610033034670546.jpg",
+    "created_at": "2023-02-11T17:09:20.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "user": {
+    "id": 4250685,
+    "nickname": "리드아트(LIDART)",
+    "userable_type": "SalesUser",
+    "userable_id": 1509,
+    "introduction": "YOU CAN MAKE ART. instagram_@lidart.co",
+    "url": "http://www.lidart.co.kr",
+    "profile_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/165164678742986811.jpg",
+    "width": null,
+    "height": null
+    },
+    "cover_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/default_images/default_user_cover1.jpg",
+    "width": null,
+    "height": null
+    },
+    "is_following": false,
+    "userable": {
+    "id": 1509,
+    "type": "SalesUser",
+    "company": "리드아트(LIDART)"
+    }
+    },
+    "cards": [
+    {
+    "id": 23357879,
+    "type": "CardImage",
+    "description": "꽃 오브제에 CMYK전구 만 켜주면 이곳이 홈바.\n미세먼지가 많은 요즘,\n집에서 분위기 내며 한 잔 하시는 건 어떤가요?\n",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/167610033034670546.jpg",
+    "width": 2500,
+    "height": 3750
+    },
+    "source": null,
+    "reply_count": 0,
+    "scrap_count": 0,
+    "like_count": 0,
+    "view_count": 8,
+    "share_count": 0,
+    "place": {
+    "label": "주방",
+    "value": 3
+    },
+    "style": {
+    "label": "",
+    "value": null
+    },
+    "title": null,
+    "created_at": "2023-02-11T17:09:20.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "video": null,
+    "keywords": [
+    "cmyk전구",
+    "주방",
+    "주방인테리어",
+    "주방조명",
+    "조명",
+    "원형테이블",
+    "술스타그램",
+    "잔",
+    "술잔",
+    "접시",
+    "와인잔",
+    "맥주잔",
+    "플레이팅",
+    "플레이팅접시",
+    "이케아화병",
+    "화병",
+    "컬러조명",
+    "무므등",
+    "무드조명",
+    "의자",
+    "비트라",
+    "리드아트",
+    "꽃",
+    "꽃조명",
+    "조명인테리어",
+    "듀라렉스",
+    "접시플레이팅",
+    "거실인테리어",
+    "식물",
+    "꽃인테리어",
+    "꽃병",
+    "컬러그림자",
+    "단스탠드",
+    "장스탠드",
+    "오브제",
+    "스탠드",
+    "과일플레이팅"
+    ]
+    }
+    ]
+    },
+    {
+    "id": 18705898,
+    "on_hide": false,
+    "card_count": 6,
+    "like_count": 4,
+    "scrap_count": 2,
+    "share_count": 0,
+    "reply_count": 1,
+    "view_count": 160,
+    "total_like_count": 4,
+    "total_scrap_count": 2,
+    "total_share_count": 0,
+    "total_reply_count": 1,
+    "total_view_count": 191,
+    "size": {
+    "label": "10평 미만",
+    "value": 0
+    },
+    "residence": {
+    "label": "원룸&오피스텔",
+    "value": 0
+    },
+    "style": {
+    "label": "모던 스타일",
+    "value": 0
+    },
+    "first_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167611297679577922.jpeg",
+    "created_at": "2023-02-11T19:56:19.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "user": {
+    "id": 6385540,
+    "nickname": "tap.mygear",
+    "userable_type": "NormalUser",
+    "userable_id": 6425284,
+    "introduction": "테크 수집가&데스크테리어",
+    "url": "https://www.instagram.com/tap.mygear",
+    "profile_image": {
+    "url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-166866200004543019.jpeg/1440/none",
+    "width": null,
+    "height": null
+    },
+    "cover_image": {
+    "url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-cover_images-166866208638528763.jpeg/1440/none",
+    "width": null,
+    "height": null
+    },
+    "is_following": false
+    },
+    "cards": [
+    {
+    "id": 23360089,
+    "type": "CardImage",
+    "description": "휴대폰으로 비디오시청이나 게임을 하는 경우가 많다보니 거치대를 활용해서 편하게 사용하고 싶다는 생각을 하시는 분들이 많으실거라 생각해요!😊\n\n이런분들께 유용하게 활용하실수 있는 거치대를 소개해드리려 합니다!👏🏻\n\n처음으로는 moft의 카드지갑 스탠드입니다!👍🏼",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167611297679577922.jpeg",
+    "width": 812,
+    "height": 1440
+    },
+    "source": null,
+    "reply_count": 0,
+    "scrap_count": 0,
+    "like_count": 0,
+    "view_count": 8,
+    "share_count": 0,
+    "place": {
+    "label": "서재&작업실",
+    "value": 7
+    },
+    "style": {
+    "label": "",
+    "value": null
+    },
+    "title": null,
+    "created_at": "2023-02-11T19:56:19.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "video": null,
+    "keywords": [
+    "오라이프",
+    "취미일상",
+    "수집가",
+    "거치대",
+    "스텐드",
+    "스탠드",
+    "휴대폰거치대",
+    "휴대폰스탠드",
+    "모바일거치대",
+    "모바일스탠드",
+    "모프트",
+    "카드지갑",
+    "카드지갑스탠드",
+    "맥세이프",
+    "아이폰",
+    "아이폰거치대"
+    ]
+    }
+    ]
+    },
+    {
+    "id": 18708806,
+    "on_hide": false,
+    "card_count": 4,
+    "like_count": 5,
+    "scrap_count": 1,
+    "share_count": 0,
+    "reply_count": 0,
+    "view_count": 33,
+    "total_like_count": 5,
+    "total_scrap_count": 2,
+    "total_share_count": 0,
+    "total_reply_count": 0,
+    "total_view_count": 46,
+    "size": {
+    "label": "30평대",
+    "value": 3
+    },
+    "residence": {
+    "label": "아파트",
+    "value": 1
+    },
+    "style": {
+    "label": "유니크 스타일",
+    "value": 7
+    },
+    "first_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167612660416352975.jpeg",
+    "created_at": "2023-02-11T23:43:38.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "user": {
+    "id": 8914644,
+    "nickname": "소녀공작소",
+    "userable_type": "NormalUser",
+    "userable_id": 8952035,
+    "introduction": "내 마음에 드는 게 제일 좋은 거",
+    "url": "https://www.instagram.com/girlvibe20",
+    "profile_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/166866034267998636.jpg",
+    "width": null,
+    "height": null
+    },
+    "cover_image": {
+    "url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-default_images-default_user_cover1.jpg/1440/none",
+    "width": null,
+    "height": null
+    },
+    "is_following": false
+    },
+    "cards": [
+    {
+    "id": 23363219,
+    "type": "CardImage",
+    "description": "좋아하는 것들로 채워지는 오롯이 나만의 공간",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167612660416352975.jpeg",
+    "width": 3024,
+    "height": 4032
+    },
+    "source": null,
+    "reply_count": 0,
+    "scrap_count": 1,
+    "like_count": 0,
+    "view_count": 2,
+    "share_count": 0,
+    "place": {
+    "label": "서재&작업실",
+    "value": 7
+    },
+    "style": {
+    "label": "",
+    "value": null
+    },
+    "title": null,
+    "created_at": "2023-02-11T23:43:38.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "video": null,
+    "keywords": []
+    }
+    ]
+    },
+    {
+    "id": 18707354,
+    "on_hide": false,
+    "card_count": 3,
+    "like_count": 5,
+    "scrap_count": 1,
+    "share_count": 0,
+    "reply_count": 0,
+    "view_count": 47,
+    "total_like_count": 5,
+    "total_scrap_count": 2,
+    "total_share_count": 0,
+    "total_reply_count": 0,
+    "total_view_count": 55,
+    "size": {
+    "label": "10평대",
+    "value": 1
+    },
+    "residence": {
+    "label": "빌라&연립",
+    "value": 2
+    },
+    "style": {
+    "label": "내추럴 스타일",
+    "value": 3
+    },
+    "first_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167612028695508237.jpeg",
+    "created_at": "2023-02-11T21:58:09.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "user": {
+    "id": 82990,
+    "nickname": "(쑤)",
+    "userable_type": "NormalUser",
+    "userable_id": 113007,
+    "introduction": "우드우드한 내 공간, 쑥쑤록홈 @su_hana0826",
+    "url": "https://www.instagram.com/su_hana0826",
+    "profile_image": {
+    "url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-160826056176508543.jpeg/1440/none",
+    "width": null,
+    "height": null
+    },
+    "cover_image": {
+    "url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-cover_images1583313588_160859.jpeg/1440/none",
+    "width": null,
+    "height": null
+    },
+    "is_following": false
+    },
+    "cards": [
+    {
+    "id": 23361658,
+    "type": "CardImage",
+    "description": "봄이 온 다락방",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167612028695508237.jpeg",
+    "width": 1550,
+    "height": 2067
+    },
+    "source": null,
+    "reply_count": 0,
+    "scrap_count": 1,
+    "like_count": 0,
+    "view_count": 7,
+    "share_count": 0,
+    "place": {
+    "label": "침실",
+    "value": 2
+    },
+    "style": {
+    "label": "",
+    "value": null
+    },
+    "title": null,
+    "created_at": "2023-02-11T21:58:09.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "video": null,
+    "keywords": [
+    "오늘의우리집",
+    "침대",
+    "침구",
+    "러그",
+    "조명",
+    "타일테이블",
+    "이불",
+    "봄인테리어",
+    "좌식인테리어",
+    "다락방",
+    "복층빌라",
+    "베개",
+    "쿠션",
+    "트레이",
+    "고래인형"
+    ]
+    }
+    ]
+    },
+    {
+    "id": 18708994,
+    "on_hide": false,
+    "card_count": 5,
+    "like_count": 6,
+    "scrap_count": 0,
+    "share_count": 0,
+    "reply_count": 0,
+    "view_count": 27,
+    "total_like_count": 6,
+    "total_scrap_count": 0,
+    "total_share_count": 0,
+    "total_reply_count": 0,
+    "total_view_count": 72,
+    "size": {
+    "label": "50평 이상",
+    "value": 5
+    },
+    "residence": {
+    "label": "아파트",
+    "value": 1
+    },
+    "style": {
+    "label": "내추럴 스타일",
+    "value": 3
+    },
+    "first_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167612750937040506.jpeg",
+    "created_at": "2023-02-11T23:58:37.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "user": {
+    "id": 3030527,
+    "nickname": "나답게#",
+    "userable_type": "NormalUser",
+    "userable_id": 3074530,
+    "introduction": "심플한 살림, 나다운_미니멀라이프",
+    "url": "https://m.blog.naver.com/habbum09",
+    "profile_image": {
+    "url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-165487243608718059.jpeg/1440/none",
+    "width": null,
+    "height": null
+    },
+    "cover_image": {
+    "url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-default_images-default_user_cover6.jpg/1440/none",
+    "width": null,
+    "height": null
+    },
+    "is_following": false
+    },
+    "cards": [
+    {
+    "id": 23363412,
+    "type": "CardImage",
+    "description": "\n미니 드레스룸 청소 겸 옷정리를 했어요.\n",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167612750937040506.jpeg",
+    "width": 2160,
+    "height": 2880
+    },
+    "source": null,
+    "reply_count": 0,
+    "scrap_count": 0,
+    "like_count": 0,
+    "view_count": 9,
+    "share_count": 0,
+    "place": {
+    "label": "드레스룸",
+    "value": 6
+    },
+    "style": {
+    "label": "",
+    "value": null
+    },
+    "title": null,
+    "created_at": "2023-02-11T23:58:37.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "video": null,
+    "keywords": [
+    "오라이프",
+    "살림",
+    "미니멀인테리어",
+    "미니멀라이프",
+    "보풀제거",
+    "살림팁",
+    "드레스룸"
+    ]
+    }
+    ]
+    },
+    {
+    "id": 18707397,
+    "on_hide": false,
+    "card_count": 9,
+    "like_count": 5,
+    "scrap_count": 0,
+    "share_count": 0,
+    "reply_count": 0,
+    "view_count": 28,
+    "total_like_count": 5,
+    "total_scrap_count": 0,
+    "total_share_count": 0,
+    "total_reply_count": 0,
+    "total_view_count": 29,
+    "size": {
+    "label": "",
+    "value": null
+    },
+    "residence": {
+    "label": "",
+    "value": null
+    },
+    "style": {
+    "label": "",
+    "value": null
+    },
+    "first_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167612045199584404.jpeg",
+    "created_at": "2023-02-11T22:01:02.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "user": {
+    "id": 6115357,
+    "nickname": "with마이엘",
+    "userable_type": "NormalUser",
+    "userable_id": 6155295,
+    "introduction": "아들둘과 함께 하는 따뜻한 우리집",
+    "url": "https://www.instagram.com/eunhee1202",
+    "profile_image": {
+    "url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-162662090986452429.jpeg/1440/none",
+    "width": null,
+    "height": null
+    },
+    "cover_image": {
+    "url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-cover_images-162662094990860294.jpeg/1440/none",
+    "width": null,
+    "height": null
+    },
+    "is_following": false
+    },
+    "cards": [
+    {
+    "id": 23361716,
+    "type": "CardImage",
+    "description": "집에서 하는 꽃 관리법🌼",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167612044189854740.jpeg",
+    "width": 1125,
+    "height": 1972
+    },
+    "source": null,
+    "reply_count": 0,
+    "scrap_count": 0,
+    "like_count": 0,
+    "view_count": 0,
+    "share_count": 0,
+    "place": {
+    "label": "주방",
+    "value": 3
+    },
+    "style": {
+    "label": "",
+    "value": null
+    },
+    "title": null,
+    "created_at": "2023-02-11T22:01:02.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "video": null,
+    "keywords": [
+    "오라이프",
+    "살림",
+    "꽃관리",
+    "봄꽃",
+    "살림팁",
+    "예쁘게살림하기",
+    "꽃꽂이",
+    "화병꽂이",
+    "꽃관리법",
+    "단정한살림"
+    ]
+    }
+    ]
+    },
+    {
+    "id": 18705925,
+    "on_hide": false,
+    "card_count": 5,
+    "like_count": 5,
+    "scrap_count": 0,
+    "share_count": 0,
+    "reply_count": 0,
+    "view_count": 40,
+    "total_like_count": 5,
+    "total_scrap_count": 0,
+    "total_share_count": 0,
+    "total_reply_count": 0,
+    "total_view_count": 53,
+    "size": {
+    "label": "10평대",
+    "value": 1
+    },
+    "residence": {
+    "label": "빌라&연립",
+    "value": 2
+    },
+    "style": {
+    "label": "",
+    "value": null
+    },
+    "first_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167611309992906249.jpeg",
+    "created_at": "2023-02-11T19:58:38.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "user": {
+    "id": 2102479,
+    "nickname": "CHOROC",
+    "userable_type": "NormalUser",
+    "userable_id": 2146819,
+    "introduction": "@choroc_record @choroc_home",
+    "url": "https://youtube.com/channel/UCuAL6Y3iJsAwShsuC4__F9A",
+    "profile_image": {
+    "url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-profile_images-161185217482490794.jpeg/1440/none",
+    "width": null,
+    "height": null
+    },
+    "cover_image": {
+    "url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-users-cover_images-160293237577160068.jpeg/1440/none",
+    "width": null,
+    "height": null
+    },
+    "is_following": false
+    },
+    "cards": [
+    {
+    "id": 23360122,
+    "type": "CardImage",
+    "description": "곳곳마다 좋아하는 것들로 가득 채운 책상에서 작업하는 일상📚",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/snapshots/167611309992906249.jpeg",
+    "width": 2675,
+    "height": 3566
+    },
+    "source": null,
+    "reply_count": 0,
+    "scrap_count": 0,
+    "like_count": 0,
+    "view_count": 4,
+    "share_count": 0,
+    "place": {
+    "label": "서재&작업실",
+    "value": 7
+    },
+    "style": {
+    "label": "",
+    "value": null
+    },
+    "title": null,
+    "created_at": "2023-02-11T19:58:38.000+09:00",
+    "is_hidden": false,
+    "is_scrap": false,
+    "is_liked": false,
+    "video": null,
+    "keywords": [
+    "오라이프",
+    "취미일상",
+    "수집가",
+    "데스크테리어"
+    ]
+    }
+    ]
+    }
+    ]
+    }
+    },
+    {
+    "type": "ExpertReview",
+    "id": "ExpertReview/1",
+    "data": {
+    "title": "유저들의 인테리어 시공 리뷰",
+    "url": "https://ohou.se/experts/discovery",
+    "expert_reviews": [
+    {
+    "id": 27258,
+    "expert_user_id": 10815565,
+    "userable_id": 7970,
+    "company": "(주)제이디자인",
+    "nickname": "Alrths",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/expert_reviews/167305713378023125.jpg",
+    "width": 1400,
+    "height": 1050
+    },
+    "profile_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/163453273125132962.jpg"
+    },
+    "rating": "",
+    "avg_review": "5.0",
+    "review_writer_id": 4150940,
+    "description": "처음 주택을 짓고난 뒤, 내부 인테리어를 위해 업체를 여러군데 알아봤는데, 제이 디자인이 견적서도 제일 세세하고, 김용원 실장님께서 인테리어 관련 설명도 잘해주셔서 제일 믿음이 갔습니다. \n저희가 1층은 부모님이 살고 2층은 제가 살아서 두개 집을 동시에 진행하는 느낌이라 문의사항도 많고 챙길 것도 많았을텐데, 공사하는 내내 카톡으로 진행사항 사진 보내주시고, 피드백도 빨라 소통이 잘되어서 공사하는동안 만족스러웠고 불편한 사항도 없었습니다. 제가 원하는 컨셉도 잘 캐치하셔서 디자인도 이쁘게 만들어주시고, 집에 들어와서 살고 있는데 넘 만족 입니다 :D!! 정말 다른분들한테 꼭 추천해주고 싶은 업체입니다!_!"
+    },
+    {
+    "id": 25485,
+    "expert_user_id": 6230751,
+    "userable_id": 5822,
+    "company": "시오디자인",
+    "nickname": "지혀닝닝닝",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/expert_reviews/166096180424723490.jpg",
+    "width": 4000,
+    "height": 3000
+    },
+    "profile_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/159706840355814518.png"
+    },
+    "rating": "",
+    "avg_review": "5.0",
+    "review_writer_id": 1676212,
+    "description": "집을 매매하고 인테리어를 알아보면서 한달동안 많은 곳에서 상담을 받았어요.\n대충 상담해주시는 업체도 있었고, \n인테리어 공부 좀 더하고 오라는 업체도 있었고🤣..\n\n상처만 가득 받은채로 시오 상담을 받으러 갔었는데, 한달동안 업체 선정 못하고 고민하던 저희가 상담끝나고 나오자마자 둘다 '여기야!'라고 외쳤답니다 ㅎㅎ \n\n첫느낌 그대로 정말 공사 내내 작은 거 하나하나 세심하게 봐주시고, 부족한 예산에 최대한 맞춰주시고, 제가 놓치고 있는 부분까지 먼저 체크해주시는 모습에 저희 부부가 걱정 하나 없이, 스트레스 하나 없이 공사 잘 마무리했어요~~\n\n집에 놀러오는 친구들마다 이쁘다며\n업체 어디냐며 물어봐서 폭풍 홍보하고 있어요 ㅎㅎ\n\n이제 인테리어가 끝난지 두달이 되어가는데\n실장님의 노력과 정성 덕분에\n저희 부부가 예쁜 집에서 행복하게 잘 지내고 있어요!\n실장님을 만난건 올해 저희에게 가장 큰 행운이자 행복이예요~~\n정말 정말 감사합니당!\n\n이연우 실장님 더더더더더 잘되세요!\n시오 화이팅!"
+    },
+    {
+    "id": 27465,
+    "expert_user_id": 7290904,
+    "userable_id": 6245,
+    "company": "모던하우스",
+    "nickname": "새봄레오",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/expert_reviews/167469806408954698.png",
+    "width": 1770,
+    "height": 1394
+    },
+    "profile_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/158964324731281643.jpg"
+    },
+    "rating": "",
+    "avg_review": "5.0",
+    "review_writer_id": 14610839,
+    "description": "이사갈 집이 7년정도 된 아파트라 완전리모델링은 아니고 부분적으로 필요한 부분만 교체하면서 진행하였구요\n(살릴수있는건 최대한 살리자고 실장님께서 얘기해주셔서^^) 시트작업만으로도 분위기 대변신! \n\n또 여자실장님 이셔서 전화상담때부터도 편하였고 대면상담 하실때에도 친절하시고 전체적인 분위기의 조화나 원하는 느낌을 디테일하게 정리해주셔서 너무 좋았어요!\n저 같은 경우엔 인테리어에 관심은 있지만 자세히는 몰라서 어떻게 시공을 해야할지 막막했는데 \n제가 원하는 그런 느낌을 딱 찝어서 해주셔서 좋았어요!\n \n타일하나하나 고를때에도 선택하기 쉽도록 비교를 잘해주셔서 선택하기가 한결 편했구요~~\n전체적인 화이트앤우드 느낌을 살리려 소파뒤쪽 월에 폰인트를 주었고 욕실에 휴젠트시공및 조명도 아이들이 좋아할만것으로 이쁘게 해주셔서 감사했습니다! \n그리고 욕실2개 제가 원하는 호텔식으로 완전ㅜㅜ \n너무 고급지고 만족하는 공간이에요! \n\n또 마루바닥이라 군데 군데 찍힘이 살짝 있어서 이사할때부터 조금 신경쓰였었는데 얘기드렸더니 마루보수도 해주시고ㅠㅠ\n다음번 이사할때 또 하고싶어요 아니 할께요!! \n감사했습니다! 적극 추천하고 갑니당"
+    },
+    {
+    "id": 8232,
+    "expert_user_id": 59791,
+    "userable_id": 66,
+    "company": "(주)미소디자인",
+    "nickname": "Bong~~~~~~♡",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/expert_reviews/161085895614919969.jpg",
+    "width": 2560,
+    "height": 1920
+    },
+    "profile_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads%2Fusers%2Fprofile_images%2F1440029906887_F85zTXhq9.png"
+    },
+    "rating": "",
+    "avg_review": "5.0",
+    "review_writer_id": 10795856,
+    "description": "한샘미소디자인팀에서 공사 시작 전부터 책임감있게 총괄해주시며  전기팀, 싱크대팀, 도배팀, 타일시공팀, 필름시공팀 등등 많은 모든 전문가분들과 의사소통 누락없이 성심성의껏 설명해주시며 한달가까이 진행하면 감동 받았습니다.  \n\n전체리모델링하며 새로들어올 가구들 배치까지 미리 신경써주시며 하나하나 체크해주시는데 비전문가라면 당연히 놓쳤을 전기선 배선 하나하나도 예쁘게 마무리 해주셨습니다.\n\n시공 1개월이 한참 지났지만  A/S 아니더라도 궁금한부분이 생기면 빠른시일내로 해결해주시니 든든합니다 \n\n예쁘고 고급진 집 만들어 주셔서 너무 감사합니다."
+    },
+    {
+    "id": 27368,
+    "expert_user_id": 19782400,
+    "userable_id": 16885,
+    "company": "그안에디자인",
+    "nickname": "엘리076",
+    "image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/cards/expert_reviews/167384373422010776.jpg",
+    "width": 3024,
+    "height": 4032
+    },
+    "profile_image": {
+    "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/users/profile_images/167592138063873829.jpg"
+    },
+    "rating": "",
+    "avg_review": "5.0",
+    "review_writer_id": 18704345,
+    "description": "살던 곳보다 조금 평수를 좁혀 이사가고 가족 구성원이 5명으로 상대적으로 많다 보니 수납이 많이 염려 되었어요. 하지만 실장님과 디자인 선생님이 굉장히 꼼꼼하게 체크해 주셨고 거실 전면장에 TV를 매립하고 컴퓨터. 청소기. 책들도 수납하게 정말 깔끔한 집이 되었습니다.\n시공 후 마음에 들지 않는 곳이나 A/S가 필요한 곳은 바로 바로 체크해 주시고 설명해 주시고 A/S도 진행해 주셔서 정말 만족하고 있습니다. 그래서 주변에 많이 추천드리고 있어요."
+    }
+    ]
+    }
+    },
+    {
+    "type": "Exhibition",
+    "id": "Exhibition/1",
+    "data": {
+    "exhibitions": [
+    {
+    "id": 10019,
+    "title": "빠른 품절! 리퍼마켓 ~88%",
+    "sub_title": "전시, 반품, 스크래치 득템의 기회!",
+    "is_showroom": false,
+    "title_background": "",
+    "total_cost": 0,
+    "mobile_cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-166615914371462008.jpg/1440/none",
+    "mobile_cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-166615914371462008.jpg/1280/none",
+    "cover_image_url_1": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-166615914371462008.jpg/1440/none",
+    "cover_img_url_1": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-166615914371462008.jpg/1280/none",
+    "cover_image_url_2": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167290214233426623.jpg/1440/none",
+    "cover_img_url_2": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167290214233426623.jpg/1280/none",
+    "cover_image_url_3": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-165467464337590170.png/1440/none",
+    "cover_img_url_3": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-165467464337590170.png/1280/none",
+    "cover_image_url_4": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167325663977260899.jpg/1440/none",
+    "cover_img_url_4": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167325663977260899.jpg/1280/none",
+    "cover_image_url_5": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-162325140171123484.jpeg/1440/none",
+    "cover_img_url_5": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-162325140171123484.jpeg/1280/none",
+    "product_count": 3015,
+    "keywords": [],
+    "images": [
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167290214233426623.jpg/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-165467464337590170.png/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167325663977260899.jpg/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-162325140171123484.jpeg/1440/none"
+    ],
+    "products": [
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-167290214233426623.jpg/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-165467464337590170.png/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-167325663977260899.jpg/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-162325140171123484.jpeg/640/640"
+    ]
+    },
+    {
+    "id": 10008,
+    "title": "오직 여기서만, O!Goods",
+    "sub_title": "오늘의집 큐레이션 편집샵 오!굿즈",
+    "is_showroom": false,
+    "title_background": "",
+    "total_cost": 0,
+    "mobile_cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167357884304055831.jpg/1440/none",
+    "mobile_cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167357884304055831.jpg/1280/none",
+    "cover_image_url_1": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167357884304055831.jpg/1440/none",
+    "cover_img_url_1": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167357884304055831.jpg/1280/none",
+    "cover_image_url_2": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-167533100998850719.jpg/1440/none",
+    "cover_img_url_2": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-167533100998850719.jpg/1280/none",
+    "cover_image_url_3": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-167567513029264843.jpg/1440/none",
+    "cover_img_url_3": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-167567513029264843.jpg/1280/none",
+    "cover_image_url_4": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-166060936448365072.jpg/1440/none",
+    "cover_img_url_4": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-166060936448365072.jpg/1280/none",
+    "cover_image_url_5": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-166968623792277883.jpg/1440/none",
+    "cover_img_url_5": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-166968623792277883.jpg/1280/none",
+    "product_count": 890,
+    "keywords": [],
+    "images": [
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-167533100998850719.jpg/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-167567513029264843.jpg/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-166060936448365072.jpg/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-166968623792277883.jpg/1440/none"
+    ],
+    "products": [
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167533100998850719.jpg/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167567513029264843.jpg/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-166060936448365072.jpg/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-166968623792277883.jpg/640/640"
+    ]
+    },
+    {
+    "id": 10017,
+    "title": "가구&가전 빠른배송 ~76%",
+    "sub_title": "오늘 주문하면, 내일 도착!",
+    "is_showroom": false,
+    "title_background": "",
+    "total_cost": 0,
+    "mobile_cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167382832523338218.png/1440/none",
+    "mobile_cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167382832523338218.png/1280/none",
+    "cover_image_url_1": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167382832523338218.png/1440/none",
+    "cover_img_url_1": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167382832523338218.png/1280/none",
+    "cover_image_url_2": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-166436464467085191.jpg/1440/none",
+    "cover_img_url_2": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-166436464467085191.jpg/1280/none",
+    "cover_image_url_3": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-163339551420208507.jpg/1440/none",
+    "cover_img_url_3": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-163339551420208507.jpg/1280/none",
+    "cover_image_url_4": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-162270054489010412.jpg/1440/none",
+    "cover_img_url_4": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-162270054489010412.jpg/1280/none",
+    "cover_image_url_5": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-164992362482323037.jpg/1440/none",
+    "cover_img_url_5": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-164992362482323037.jpg/1280/none",
+    "product_count": 459,
+    "keywords": [],
+    "images": [
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-166436464467085191.jpg/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-163339551420208507.jpg/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-162270054489010412.jpg/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-164992362482323037.jpg/1440/none"
+    ],
+    "products": [
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-166436464467085191.jpg/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-163339551420208507.jpg/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-162270054489010412.jpg/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-164992362482323037.jpg/640/640"
+    ]
+    },
+    {
+    "id": 10390,
+    "title": "새학기 데일리 홈오피스 ~82%",
+    "sub_title": "신학기맞이 BIG SALE",
+    "is_showroom": false,
+    "title_background": "",
+    "total_cost": 0,
+    "mobile_cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167540340553798682.png/1440/none",
+    "mobile_cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167540340553798682.png/1280/none",
+    "cover_image_url_1": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167540340553798682.png/1440/none",
+    "cover_img_url_1": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167540340553798682.png/1280/none",
+    "cover_image_url_2": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-163781720891090737.jpg/1440/none",
+    "cover_img_url_2": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-163781720891090737.jpg/1280/none",
+    "cover_image_url_3": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-164690959834542572.jpg/1440/none",
+    "cover_img_url_3": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-164690959834542572.jpg/1280/none",
+    "cover_image_url_4": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167521192744782230.jpg/1440/none",
+    "cover_img_url_4": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167521192744782230.jpg/1280/none",
+    "cover_image_url_5": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-166457385928406586.jpg/1440/none",
+    "cover_img_url_5": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-166457385928406586.jpg/1280/none",
+    "product_count": 840,
+    "keywords": [],
+    "images": [
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-163781720891090737.jpg/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-164690959834542572.jpg/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167521192744782230.jpg/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-166457385928406586.jpg/1440/none"
+    ],
+    "products": [
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-163781720891090737.jpg/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-164690959834542572.jpg/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-167521192744782230.jpg/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166457385928406586.jpg/640/640"
+    ]
+    },
+    {
+    "id": 10391,
+    "title": "신학기 우리아이 키즈룸 ~82%",
+    "sub_title": "신학기맞이 BIG SALE",
+    "is_showroom": false,
+    "title_background": "",
+    "total_cost": 0,
+    "mobile_cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167541874914710596.png/1440/none",
+    "mobile_cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167541874914710596.png/1280/none",
+    "cover_image_url_1": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167541874914710596.png/1440/none",
+    "cover_img_url_1": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167541874914710596.png/1280/none",
+    "cover_image_url_2": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167478523367830859.png/1440/none",
+    "cover_img_url_2": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167478523367830859.png/1280/none",
+    "cover_image_url_3": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-163005488721627127.jpg/1440/none",
+    "cover_img_url_3": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-163005488721627127.jpg/1280/none",
+    "cover_image_url_4": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167463943712728383.png/1440/none",
+    "cover_img_url_4": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167463943712728383.png/1280/none",
+    "cover_image_url_5": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-165951848035494483.jpg/1440/none",
+    "cover_img_url_5": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-165951848035494483.jpg/1280/none",
+    "product_count": 849,
+    "keywords": [],
+    "images": [
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167478523367830859.png/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-163005488721627127.jpg/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-167463943712728383.png/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-165951848035494483.jpg/1440/none"
+    ],
+    "products": [
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-167478523367830859.png/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-163005488721627127.jpg/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-167463943712728383.png/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-165951848035494483.jpg/640/640"
+    ]
+    },
+    {
+    "id": 10448,
+    "title": "특별한 날에는 O! 선물하기 ~62%",
+    "sub_title": "가격대별로 제안하는 센스있는 선물추천!",
+    "is_showroom": false,
+    "title_background": "",
+    "total_cost": 0,
+    "mobile_cover_image_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167538356297975756.jpg/1440/none",
+    "mobile_cover_img_url": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167538356297975756.jpg/1280/none",
+    "cover_image_url_1": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167538356297975756.jpg/1440/none",
+    "cover_img_url_1": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-exhibitions-cover_image-167538356297975756.jpg/1280/none",
+    "cover_image_url_2": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-167540624171440538.gif/1440/none",
+    "cover_img_url_2": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-167540624171440538.gif/1280/none",
+    "cover_image_url_3": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-163610407945149933.jpg/1440/none",
+    "cover_img_url_3": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-163610407945149933.jpg/1280/none",
+    "cover_image_url_4": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-166000888535004442.jpg/1440/none",
+    "cover_img_url_4": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-166000888535004442.jpg/1280/none",
+    "cover_image_url_5": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-166020379127225732.gif/1440/none",
+    "cover_img_url_5": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-166020379127225732.gif/1280/none",
+    "product_count": 310,
+    "keywords": [],
+    "images": [
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-167540624171440538.gif/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-163610407945149933.jpg/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-productions-166000888535004442.jpg/1440/none",
+    "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-deals-166020379127225732.gif/1440/none"
+    ],
+    "products": [
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167540624171440538.gif/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-163610407945149933.jpg/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166000888535004442.jpg/640/640",
+    "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-deals-166020379127225732.gif/640/640"
+    ]
+    }
+    ]
+    }
+    },
+    {
+    "type": "Best",
+    "id": "Best/1",
+    "data": {
+    "type": {
+    "current": "best",
+    "types": [
+    {
+    "name": "실시간 베스트",
+    "code": "recent"
+    },
+    {
+    "name": "역대 베스트",
+    "code": "best"
+    }
+    ]
+    },
+    "category": {
+    "current": "all",
+    "categories": [
+    {
+    "name": "전체",
+    "code": "all"
+    },
+    {
+    "name": "가구",
+    "code": "0"
+    },
+    {
+    "name": "패브릭",
+    "code": "1"
+    },
+    {
+    "name": "가전·디지털",
+    "code": "3"
+    },
+    {
+    "name": "주방용품",
+    "code": "5"
+    },
+    {
+    "name": "식품",
+    "code": "24"
+    },
+    {
+    "name": "데코·식물",
+    "code": "2"
+    },
+    {
+    "name": "조명",
+    "code": "27"
+    },
+    {
+    "name": "수납·정리",
+    "code": "11"
+    },
+    {
+    "name": "생활용품",
+    "code": "4"
+    },
+    {
+    "name": "생필품",
+    "code": "21"
+    },
+    {
+    "name": "유아·아동",
+    "code": "26"
+    },
+    {
+    "name": "반려동물",
+    "code": "8"
+    },
+    {
+    "name": "캠핑·레저",
+    "code": "28"
+    },
+    {
+    "name": "공구·DIY",
+    "code": "6"
+    },
+    {
+    "name": "인테리어시공",
+    "code": "7"
+    },
+    {
+    "name": "렌탈",
+    "code": "25"
+    }
+    ]
+    },
+    "products": [
+    {
+    "type": "Production",
+    "review_avg": 4.68,
+    "review_count": 22234,
+    "id": 212240,
+    "name": "[5%쿠폰] 비침없는 도톰 레이스/쉬폰커튼(나비주름/핀형/봉집)",
+    "scrap_count": 205599,
+    "view_count": 0,
+    "used_card_count": 20649,
+    "selling_price": 19900,
+    "original_price": 45000,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/162303132447303472.jpeg",
+    "resized_image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-162303132447303472.jpeg/2560/2560",
+    "status": 4,
+    "week_rank": 0,
+    "delivery_type": 1,
+    "user_id": 4747547,
+    "brand": {
+    "id": 5173,
+    "name": "아엠홈"
+    },
+    "is_departure_today": false,
+    "delivery_start_at": null,
+    "badges": [],
+    "benefit_badges": [],
+    "is_cheapest_price": false,
+    "is_special_price": true,
+    "is_hidden": false,
+    "is_delivery_date_specified": false,
+    "is_retail_delivery": false,
+    "is_third_party_logistic": false,
+    "delivery_service_code": "NORMAL",
+    "is_selling": true,
+    "is_sold_out": false,
+    "is_scrap": false,
+    "is_free_delivery": false,
+    "is_discontinued": false,
+    "is_overseas_purchase": false,
+    "is_buyable": true,
+    "is_consultable": false,
+    "is_remodel": false,
+    "is_discounted": false,
+    "is_bespoke": true,
+    "brand_id": 5173,
+    "brand_name": "아엠홈",
+    "raw_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/162303132447303472.jpeg",
+    "image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-162303132447303472.jpeg/2560/2560",
+    "wish_count": 205599,
+    "selling_cost": 19900,
+    "cost": 45000,
+    "selling": true,
+    "sold_out": false,
+    "lowest_guarantee": false,
+    "is_wish": false,
+    "free_delivery": false
+    },
+    {
+    "type": "Production",
+    "review_avg": 4.77,
+    "review_count": 13515,
+    "id": 111255,
+    "name": "Q4 유로탑 롤팩 매트리스 2size",
+    "scrap_count": 59584,
+    "view_count": 0,
+    "used_card_count": 10227,
+    "selling_price": 297900,
+    "original_price": 710000,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/1554432441250_K6wX5dopzz.jpg",
+    "resized_image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-1554432441250_K6wX5dopzz.jpg/2560/2560",
+    "status": 4,
+    "week_rank": 0,
+    "delivery_type": 0,
+    "user_id": 852088,
+    "brand": {
+    "id": 5501,
+    "name": "퀵슬립"
+    },
+    "is_departure_today": false,
+    "delivery_start_at": null,
+    "badges": [],
+    "benefit_badges": [],
+    "is_cheapest_price": false,
+    "is_special_price": true,
+    "is_hidden": false,
+    "is_delivery_date_specified": false,
+    "is_retail_delivery": false,
+    "is_third_party_logistic": false,
+    "delivery_service_code": "CARGO",
+    "is_selling": true,
+    "is_sold_out": false,
+    "is_scrap": false,
+    "is_free_delivery": true,
+    "is_discontinued": false,
+    "is_overseas_purchase": false,
+    "is_buyable": true,
+    "is_consultable": false,
+    "is_remodel": false,
+    "is_discounted": false,
+    "is_bespoke": false,
+    "brand_id": 5501,
+    "brand_name": "퀵슬립",
+    "raw_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/1554432441250_K6wX5dopzz.jpg",
+    "image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-1554432441250_K6wX5dopzz.jpg/2560/2560",
+    "wish_count": 59584,
+    "selling_cost": 297900,
+    "cost": 710000,
+    "selling": true,
+    "sold_out": false,
+    "lowest_guarantee": false,
+    "is_wish": false,
+    "free_delivery": true
+    },
+    {
+    "type": "Production",
+    "review_avg": 4.69,
+    "review_count": 14785,
+    "id": 329364,
+    "name": "편안한 제주 25cm 필로우탑 본넬스프링 침대 매트리스(싱글/슈퍼싱글/퀸/킹)",
+    "scrap_count": 79913,
+    "view_count": 0,
+    "used_card_count": 9671,
+    "selling_price": 106900,
+    "original_price": 249000,
+    "original_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165580847056056090.jpg",
+    "resized_image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165580847056056090.jpg/2560/2560",
+    "status": 4,
+    "week_rank": 0,
+    "delivery_type": 2,
+    "user_id": 6394256,
+    "brand": {
+    "id": 18756,
+    "name": "휴도"
+    },
+    "is_departure_today": false,
+    "delivery_start_at": null,
+    "badges": [],
+    "benefit_badges": [],
+    "is_cheapest_price": false,
+    "is_special_price": true,
+    "is_hidden": false,
+    "is_delivery_date_specified": false,
+    "is_retail_delivery": false,
+    "is_third_party_logistic": false,
+    "delivery_service_code": "SELLER",
+    "is_selling": true,
+    "is_sold_out": false,
+    "is_scrap": false,
+    "is_free_delivery": false,
+    "is_discontinued": false,
+    "is_overseas_purchase": false,
+    "is_buyable": true,
+    "is_consultable": false,
+    "is_remodel": false,
+    "is_discounted": false,
+    "is_bespoke": false,
+    "brand_id": 18756,
+    "brand_name": "휴도",
+    "raw_image_url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165580847056056090.jpg",
+    "image_url": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165580847056056090.jpg/2560/2560",
+    "wish_count": 79913,
+    "selling_cost": 106900,
+    "cost": 249000,
+    "selling": true,
+    "sold_out": false,
+    "lowest_guarantee": false,
+    "is_wish": false,
+    "free_delivery": false
+    }
+    ]
+    }
+    }
+    ]
+    }
