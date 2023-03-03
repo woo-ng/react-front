@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { ReactComponent as Logo } from '../../logo.svg';
 import { BrowserView, MobileView } from 'react-device-detect';
 import { ReactComponent as Tkwls } from '../../tkwls.svg';
@@ -10,16 +10,32 @@ import { ReactComponent as Wlfans } from '../../wlfans.svg';
 
 import ToggleMenu from './ToggleMenu';
 import styles from './Header.module.scss';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
 const Header = () => {
+  const [searchValue, setSearchValue] = useState('');
+  const navigate = useNavigate();
+
   const userData = sessionStorage.getItem('userData') ?? '{}';
   const user = JSON.parse(userData);
+
+  const handleSearch = () => {
+    // implement search functionality here using the searchValue state
+    console.log('searching for', searchValue);
+    navigate(`/feed?query=${searchValue}`);
+  };
+
+  const handleKeyDown = (event) => {
+    if (event.key === 'Enter') {
+      handleSearch();
+    }
+  };
 
   const handleLogout = () => {
     sessionStorage.removeItem('userData');
     window.location.href = '/main';
   };
+
   return (
     <>
       <BrowserView className={styles.header}>
@@ -36,7 +52,13 @@ const Header = () => {
             <div className="header-upper__searchBar">
               <i className="fas fa-search" />
 
-              <input type="text" placeholder="통합검색"></input>
+              <input
+                type="text"
+                placeholder="통합검색"
+                value={searchValue}
+                onChange={(e) => setSearchValue(e.target.value)}
+                onKeyDown={handleKeyDown} // add onKeyDown event listener
+              />
             </div>
           </div>
           <div className={styles.right_menu}>
