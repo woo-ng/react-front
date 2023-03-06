@@ -33,13 +33,17 @@
       border-right: 1px solid #757575;
       padding-right: 2px;
     }
+    &:nth-child(2) {
+      border-right: 1px solid #757575;
+      padding-right: 2px;
+    }
 
     a {
       margin: 0 9px 0 8px;
       display: inline-block;
     }
 
-    &:nth-child(3) {
+    &:nth-child(4) {
       border-left: 1px solid #757575;
       display: none;
     }

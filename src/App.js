@@ -7,6 +7,7 @@ import Login from './component/layout/Login';
 import Main from './component/layout/Main';
 import Member from './component/layout/Member';
 import Selling from './component/layout/Selling';
+import FAQ from './cs/FAQ';
 
 const history = createBrowserHistory();
 
@@ -18,6 +19,7 @@ const App = () => {
         <Route path="/feed/*" element={<Feed />}></Route>
         <Route path="/member" element={<Member />}></Route>
         <Route path="/productions/*" element={<Selling />} />
+        <Route path="/customer_center" element={<FAQ />} />
         <Route path="/sign_in" element={<Login />}></Route>
       </Routes>
     </BrowserRouter>

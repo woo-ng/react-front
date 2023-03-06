@@ -1,0 +1,28 @@
+.category-set {
+  text-align: center;
+}
+
+.category-child {
+  margin: 5px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 0;
+  border: 1px solid #FF8585;
+  background-color: #FF8585;
+  width: 130px;
+  height: 50px;
+  border-radius: 50px;
+}
+
+.category-child:hover {
+  font-weight: bolder;
+  border-color: black;
+}
+
+.selected {
+  border-style: none;
+  font-weight: 800;
+  background: rgb(12, 77. 162);
+  color: #fff;
+}

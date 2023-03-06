@@ -79,6 +79,9 @@ const Header = () => {
                   <li>
                     <a href>회원가입</a>
                   </li>
+                  <li>
+                    <Link to="/customer_center">고객센터</Link>
+                  </li>
                 </>
               )}
 
