@@ -1,16 +1,16 @@
 import React, { useState } from 'react';
-import { ReactComponent as Logo } from '../../logo.svg';
 import { BrowserView, MobileView } from 'react-device-detect';
-import { ReactComponent as Tkwls } from '../../tkwls.svg';
-import { ReactComponent as Wlqemfdl } from '../../wlqemfdl.svg';
-import { ReactComponent as Shgkdn } from '../../shgkdn.svg';
+import { Link, useNavigate } from 'react-router-dom';
 import { ReactComponent as Flqb } from '../../flqb.svg';
+import { ReactComponent as Logo } from '../../logo.svg';
+import { ReactComponent as Shgkdn } from '../../shgkdn.svg';
+import { ReactComponent as Tkwls } from '../../tkwls.svg';
 import { ReactComponent as Tlrhd } from '../../tlrhd.svg';
 import { ReactComponent as Wlfans } from '../../wlfans.svg';
-
+import { ReactComponent as Wlqemfdl } from '../../wlqemfdl.svg';
 import ToggleMenu from './ToggleMenu';
-import styles from './Header.module.scss';
-import { Link, useNavigate } from 'react-router-dom';
+
+import './Header.scss';
 
 const Header = () => {
   const [searchValue, setSearchValue] = useState('');
@@ -38,17 +38,17 @@ const Header = () => {
 
   return (
     <>
-      <BrowserView className={styles.header}>
+      <BrowserView id="header">
         <div className="header-upper__inner">
           <div className="header-upper__logo">
             <a href="/">
-              <Logo className={styles.logo_svg} width={null} height="43" />
+              <Logo className="logo_svg" width={null} height="43" />
             </a>
           </div>
         </div>
 
-        <div className={styles.service}>
-          <div className={styles.search_box}>
+        <div className="service">
+          <div className="search_box">
             <div className="header-upper__searchBar">
               <i className="fas fa-search" />
 
@@ -61,10 +61,10 @@ const Header = () => {
               />
             </div>
           </div>
-          <div className={styles.right_menu}>
-            <a href>
+          <div className="right_menu">
+            <Link to="/cart">
               <i className="fas fa-shopping-cart"></i>
-            </a>
+            </Link>
             <ul className="flex">
               {user.member_id ? (
                 <>
@@ -77,7 +77,7 @@ const Header = () => {
                     <Link to="/sign_in">로그인</Link>
                   </li>
                   <li>
-                    <a href>회원가입</a>
+                    <Link to="/sign_up">회원가입</Link>
                   </li>
                   <li>
                     <Link to="/customer_center">고객센터</Link>
@@ -164,8 +164,8 @@ const Header = () => {
         </div>
       </BrowserView>
 
-      <MobileView className={styles.header}>
-        <div className={styles.service}>
+      <MobileView id="header">
+        <div className="service">
           <a className="logo" href="/">
             <Logo />
           </a>
