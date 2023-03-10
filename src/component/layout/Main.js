@@ -87,13 +87,13 @@ export default function App() {
               </a>
             </div>
             <div class={styles.css_2qd0l8}>
-              <a href="/">
+              <a href="/today_deals">
                 <img
                   src="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198007152582471.png?w=144"
                   srcset="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198007152582471.png?w=144 "
                   class={styles.css_1511w17}
                 />
-                <span class={styles.css_xd55zv}>오늘의 딜</span>
+                <span class={styles.css_xd55zv}>오늘의딜</span>
               </a>
             </div>
             <div class={styles.css_2qd0l8}>

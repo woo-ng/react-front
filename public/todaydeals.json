@@ -1,0 +1,1622 @@
+{
+  "data": {
+    "todayDeals": {
+      "totalCount": 837,
+      "maxDiscount": 100,
+      "banner": {
+        "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/banners/today_deal/167638680820754906.png",
+        "resizedImageUrl": "https://image.ohou.se/image/resize/bucketplace-v2-development/uploads-banners-today_deal-167638680820754906.png/2560/none",
+        "__typename": "Image"
+      },
+      "todayDeals": [
+        {
+          "startAt": "2023-02-16T00:00:00.000+0900",
+          "endAt": "2023-02-23T00:00:00.000+0900",
+          "title": "[오늘의딜] 데일리라이크 발매트 포인트러그 BEST ",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166434681602548999.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166434681602548999.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/164497453214916832.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-164497453214916832.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166148672882293671.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166148672882293671.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166148279294796836.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166148279294796836.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166425424959142295.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166425424959142295.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166450135152929970.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166450135152929970.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Deal",
+            "id": 1218117,
+            "name": "[오늘의딜] 데일리라이크 발매트 포인트러그 BEST ",
+            "reviewAvg": 4.81,
+            "reviewCount": 2300,
+            "scrapCount": 3683,
+            "sellingPrice": 11900,
+            "originalPrice": 17000,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/deals/166383229216617065.jpg",
+            "brand": {
+              "id": 1199,
+              "name": "데일리라이크",
+              "__typename": "Brand"
+            },
+            "badges": [],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": true,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-22T00:00:00.000+0900",
+          "endAt": "2023-03-01T00:00:00.000+0900",
+          "title": "[오늘의딜] [최종 159,000원] 무선청소기 L30 흡입력 350W / UV살균브러시 ",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/167279826236226049.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-167279826236226049.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/167279826568929541.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-167279826568929541.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/167279826827690012.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-167279826827690012.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/167279827125234307.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-167279827125234307.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/167279827443791361.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-167279827443791361.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/167279827734787294.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-167279827734787294.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/167279828005813142.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-167279828005813142.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Production",
+            "id": 1183330,
+            "name": "[오늘의딜] [최종 159,000원] 무선청소기 L30 흡입력 350W / UV살균브러시 ",
+            "reviewAvg": 4.79,
+            "reviewCount": 1787,
+            "scrapCount": 8474,
+            "sellingPrice": 189000,
+            "originalPrice": 320000,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167056736034938440.jpg",
+            "brand": { "id": 37681, "name": "로헨", "__typename": "Brand" },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3223487,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": true,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": true,
+            "deliveryStartAt": {
+              "template": {
+                "text": "평일 %s까지 결제시",
+                "values": ["15:00"],
+                "__typename": "DeliveryStartAtTemplate"
+              },
+              "information": null,
+              "__typename": "DeliveryStartAt"
+            },
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-22T00:00:00.000+0900",
+          "endAt": "2023-03-01T00:00:00.000+0900",
+          "title": "[5%쿠폰]감성 우드쉘프 접이식 선반 테이블 캠핑",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/167340546577593024.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-167340546577593024.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/163902834556448350.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-163902834556448350.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/163902834939760787.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-163902834939760787.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/163902835365218264.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-163902835365218264.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/163902836046169765.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-163902836046169765.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/163902836897834002.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-163902836897834002.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Production",
+            "id": 1127015,
+            "name": "[5%쿠폰]감성 우드쉘프 접이식 선반 테이블 캠핑",
+            "reviewAvg": 4.8,
+            "reviewCount": 305,
+            "scrapCount": 2610,
+            "sellingPrice": 16300,
+            "originalPrice": 29500,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167340546194598953.jpg",
+            "brand": { "id": 40485, "name": "다니고", "__typename": "Brand" },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3259673,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": false,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-22T00:00:00.000+0900",
+          "endAt": "2023-03-01T00:00:00.000+0900",
+          "title": "[오늘의딜][카드추가6%할인] PS5 본체/컨트롤러 외 주변기기 인기상품 모음",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/19927476/1675403705491.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-19927476-1675403705491.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/19927476/1675404125447.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-19927476-1675404125447.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/19927476/1675403702411.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-19927476-1675403702411.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/19927476/1675404122395.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-19927476-1675404122395.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/19927476/1675404095610.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-19927476-1675404095610.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/19927476/1675404092485.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-19927476-1675404092485.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/19927476/1675404089473.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-19927476-1675404089473.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Deal",
+            "id": 1867312,
+            "name": "[오늘의딜][카드추가6%할인] PS5 본체/컨트롤러 외 주변기기 인기상품 모음",
+            "reviewAvg": 5,
+            "reviewCount": 1,
+            "scrapCount": 4,
+            "sellingPrice": 680000,
+            "originalPrice": 760800,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/deals/167599992631442991.jpg",
+            "brand": {
+              "id": 24555,
+              "name": "플레이스테이션",
+              "__typename": "Brand"
+            },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3217463,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": true,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-22T00:00:00.000+0900",
+          "endAt": "2023-03-01T00:00:00.000+0900",
+          "title": "[오늘의딜]플러스 치약 200g 5개 외 브랜드 초특가",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165879870625243659.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165879870625243659.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167696188176709664.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167696188176709664.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167696186456904275.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167696186456904275.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167696184053536811.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167696184053536811.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165896972792786042.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165896972792786042.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165896496841499138.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165896496841499138.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166815638838518024.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166815638838518024.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Deal",
+            "id": 1508937,
+            "name": "[오늘의딜]플러스 치약 200g 5개 외 브랜드 초특가",
+            "reviewAvg": 4.9,
+            "reviewCount": 828,
+            "scrapCount": 469,
+            "sellingPrice": 15500,
+            "originalPrice": 21360,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/deals/166877406073368705.jpg",
+            "brand": { "id": 16397, "name": "애터미", "__typename": "Brand" },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3218851,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": false,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-16T00:00:00.000+0900",
+          "endAt": "2023-02-23T00:00:00.000+0900",
+          "title": "[오늘의딜] 미드센추리 모던 인테리어 의자 BEST ITEM",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166817088073690560.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166817088073690560.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166178838546547543.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166178838546547543.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166452157360002760.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166452157360002760.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166074454459801867.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166074454459801867.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166360829783211907.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166360829783211907.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166867854428048846.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166867854428048846.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166497032085298934.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166497032085298934.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Deal",
+            "id": 1735616,
+            "name": "[오늘의딜] 미드센추리 모던 인테리어 의자 BEST ITEM",
+            "reviewAvg": 4.71,
+            "reviewCount": 1607,
+            "scrapCount": 750,
+            "sellingPrice": 25700,
+            "originalPrice": 32900,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/deals/167038028967042105.png",
+            "brand": {
+              "id": 21513,
+              "name": "공간디자인",
+              "__typename": "Brand"
+            },
+            "badges": [],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": false,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-22T00:00:00.000+0900",
+          "endAt": "2023-03-01T00:00:00.000+0900",
+          "title": "[오늘의딜] 저스트슬립 매트리스 7종&일체형 침대 S/SS/Q",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/164394001000503900.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-164394001000503900.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/164394059102175971.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-164394059102175971.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/164394169127372224.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-164394169127372224.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/164394110375664352.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-164394110375664352.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165951875964582444.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165951875964582444.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165951559202183169.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165951559202183169.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165951508351454940.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165951508351454940.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Deal",
+            "id": 1193829,
+            "name": "[오늘의딜] 저스트슬립 매트리스 7종&일체형 침대 S/SS/Q",
+            "reviewAvg": 4.76,
+            "reviewCount": 3353,
+            "scrapCount": 7682,
+            "sellingPrice": 92900,
+            "originalPrice": 179000,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/deals/166028869662177458.jpg",
+            "brand": {
+              "id": 43313,
+              "name": "저스트슬립",
+              "__typename": "Brand"
+            },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3169591,
+                "thumbnailBadgeId": 1676339604,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633960040654859.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": true,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-21T00:00:00.000+0900",
+          "endAt": "2023-02-28T00:00:00.000+0900",
+          "title": "[오늘의딜] 40수 코마사 무형광 고중량 호텔수건 클라우드 200g 10장",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/160741417647151504.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-160741417647151504.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/160741418311334828.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-160741418311334828.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/160741418923720203.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-160741418923720203.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/160741419337618421.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-160741419337618421.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/160741419708601285.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-160741419708601285.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/160741420155556203.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-160741420155556203.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/images/160741420632116114.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-images-160741420632116114.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Production",
+            "id": 603875,
+            "name": "[오늘의딜] 40수 코마사 무형광 고중량 호텔수건 클라우드 200g 10장",
+            "reviewAvg": 4.73,
+            "reviewCount": 334,
+            "scrapCount": 1553,
+            "sellingPrice": 30600,
+            "originalPrice": 50000,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167514021397141370.jpg",
+            "brand": {
+              "id": 7517,
+              "name": "소프트터치",
+              "__typename": "Brand"
+            },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3234478,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": true,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": true,
+            "deliveryStartAt": {
+              "template": {
+                "text": "평일 %s까지 결제시",
+                "values": ["13:00"],
+                "__typename": "DeliveryStartAtTemplate"
+              },
+              "information": null,
+              "__typename": "DeliveryStartAt"
+            },
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-19T00:00:00.000+0900",
+          "endAt": "2023-02-24T00:00:00.000+0900",
+          "title": "[7%쿠폰] 락앤락 BEST 조리도구/칼세트 특가전",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/163884302604869787.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-163884302604869787.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/161476008212869320.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-161476008212869320.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/163900969496722657.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-163900969496722657.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165725840590914571.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165725840590914571.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/158570516153283021.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-158570516153283021.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/158580437341625545.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-158580437341625545.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/164731831736197633.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-164731831736197633.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Deal",
+            "id": 753935,
+            "name": "[7%쿠폰] 락앤락 BEST 조리도구/칼세트 특가전",
+            "reviewAvg": 4.72,
+            "reviewCount": 11222,
+            "scrapCount": 2369,
+            "sellingPrice": 19500,
+            "originalPrice": 29900,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/deals/167634931501432114.jpg",
+            "brand": { "id": 127, "name": "락앤락", "__typename": "Brand" },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3219922,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": false,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-20T00:00:00.000+0900",
+          "endAt": "2023-02-27T00:00:00.000+0900",
+          "title": "[오늘의딜] 양날개 튼튼 투웨이 우드 빨래건조대/분리수거함/센서휴지통 특가전",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/163460341655640970.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-163460341655640970.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/163185365557586689.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-163185365557586689.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/13379572/1672965398645.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-13379572-1672965398645.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167601216088304953.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167601216088304953.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/13379572/1659410527520.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-13379572-1659410527520.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/13379572/1642558083753.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-13379572-1642558083753.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/163460339987537447.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-163460339987537447.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Deal",
+            "id": 1885151,
+            "name": "[오늘의딜] 양날개 튼튼 투웨이 우드 빨래건조대/분리수거함/센서휴지통 특가전",
+            "reviewAvg": 4.64,
+            "reviewCount": 3160,
+            "scrapCount": 72,
+            "sellingPrice": 10900,
+            "originalPrice": 19900,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/deals/167651974903842374.jpg",
+            "brand": { "id": 413, "name": "한샘", "__typename": "Brand" },
+            "badges": [],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": false,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-16T00:00:00.000+0900",
+          "endAt": "2023-02-23T00:00:00.000+0900",
+          "title": "[오늘의딜] 옷장/화장대/전선 정리 종결! 수납 베스트템 골라담기",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165181812368673131.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165181812368673131.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165648638710340484.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165648638710340484.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165233047255516268.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165233047255516268.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/159115174761859852.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-159115174761859852.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/1540889714728_R.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-1540889714728_R.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/162313424014680047.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-162313424014680047.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/163289046565897633.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-163289046565897633.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Deal",
+            "id": 1691237,
+            "name": "[오늘의딜] 옷장/화장대/전선 정리 종결! 수납 베스트템 골라담기",
+            "reviewAvg": 4.64,
+            "reviewCount": 8477,
+            "scrapCount": 1051,
+            "sellingPrice": 5900,
+            "originalPrice": 6500,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/deals/167538819814770240.jpg",
+            "brand": { "id": 7040, "name": "THE살림", "__typename": "Brand" },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3219034,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": false,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-20T00:00:00.000+0900",
+          "endAt": "2023-02-27T00:00:00.000+0900",
+          "title": "[오늘의딜][해외] 믹스베어 인테리어 두루마리 휴지걸이 화장지걸이",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/4541212/1663671422275.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-4541212-1663671422275.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/4541212/1663671422447.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-4541212-1663671422447.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/4541212/1663671422611.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-4541212-1663671422611.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Production",
+            "id": 1593425,
+            "name": "[오늘의딜][해외] 믹스베어 인테리어 두루마리 휴지걸이 화장지걸이",
+            "reviewAvg": 4.38,
+            "reviewCount": 8,
+            "scrapCount": 721,
+            "sellingPrice": 49900,
+            "originalPrice": 99900,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/4541212/1663671421691.jpg",
+            "brand": { "id": 17087, "name": "집드리", "__typename": "Brand" },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3232652,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": true,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": true,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-22T00:00:00.000+0900",
+          "endAt": "2023-03-01T00:00:00.000+0900",
+          "title": "[오늘의딜][해외] 미드센추리 모던 다용도 슬라이드 수납장",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/4541212/1669686694944.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-4541212-1669686694944.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/4541212/1669686695209.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-4541212-1669686695209.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/4541212/1669686695424.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-4541212-1669686695424.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Production",
+            "id": 1720944,
+            "name": "[오늘의딜][해외] 미드센추리 모던 다용도 슬라이드 수납장",
+            "reviewAvg": 4.08,
+            "reviewCount": 9,
+            "scrapCount": 1954,
+            "sellingPrice": 45900,
+            "originalPrice": 86000,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/4541212/1669686694376.jpg",
+            "brand": { "id": 17087, "name": "집드리", "__typename": "Brand" },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3236197,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": true,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": true,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-22T00:00:00.000+0900",
+          "endAt": "2023-03-01T00:00:00.000+0900",
+          "title": "[15%쿠폰][오늘의딜] 스탠드 바닥솔 세트 청소솔 헤드분리가능 (840mm/1100mm)",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/17921724/1652405907849.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-17921724-1652405907849.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/17921724/1652405909175.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-17921724-1652405909175.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/17921724/1652405909688.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-17921724-1652405909688.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/17921724/1652405910303.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-17921724-1652405910303.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/17921724/1652405910871.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-17921724-1652405910871.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/17921724/1652405911445.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-17921724-1652405911445.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/17921724/1652405911954.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-17921724-1652405911954.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Production",
+            "id": 1342122,
+            "name": "[15%쿠폰][오늘의딜] 스탠드 바닥솔 세트 청소솔 헤드분리가능 (840mm/1100mm)",
+            "reviewAvg": 4.64,
+            "reviewCount": 235,
+            "scrapCount": 1501,
+            "sellingPrice": 34100,
+            "originalPrice": 40700,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/17921724/1652405907243.jpg",
+            "brand": { "id": 34937, "name": "바이칸", "__typename": "Brand" },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3232249,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": false,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-16T00:00:00.000+0900",
+          "endAt": "2023-02-23T00:00:00.000+0900",
+          "title": "[오늘의딜] (10%쿠폰) 손이 편한 고리형 고무장갑 3+3세트/빨아쓰는 행주/주방잡화",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166565334700018402.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166565334700018402.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166210419524476959.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166210419524476959.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166123755680584926.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166123755680584926.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165830464505343855.png",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165830464505343855.png/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165659190248708325.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165659190248708325.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165769577366072222.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165769577366072222.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165769546165037003.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165769546165037003.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Deal",
+            "id": 1451297,
+            "name": "[오늘의딜] (10%쿠폰) 손이 편한 고리형 고무장갑 3+3세트/빨아쓰는 행주/주방잡화",
+            "reviewAvg": 4.76,
+            "reviewCount": 682,
+            "scrapCount": 2817,
+            "sellingPrice": 11900,
+            "originalPrice": 26400,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/deals/166908193435399265.jpg",
+            "brand": { "id": 26947, "name": "프로그", "__typename": "Brand" },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3219496,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": true,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-22T00:00:00.000+0900",
+          "endAt": "2023-03-01T00:00:00.000+0900",
+          "title": "[5%쿠폰] 알집 에코칼라 폴더매트/롤매트/복도제로매트/거실매트 모음전",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/163151251677095260.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-163151251677095260.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167169694767938253.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167169694767938253.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167572910323058771.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167572910323058771.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167572904500614666.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167572904500614666.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167572893159232674.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167572893159232674.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167572900520881793.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167572900520881793.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/167581898941885636.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-167581898941885636.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Deal",
+            "id": 1599951,
+            "name": "[5%쿠폰] 알집 에코칼라 폴더매트/롤매트/복도제로매트/거실매트 모음전",
+            "reviewAvg": 4.69,
+            "reviewCount": 188,
+            "scrapCount": 17,
+            "sellingPrice": 79000,
+            "originalPrice": 199000,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/deals/166391026719716154.jpg",
+            "brand": { "id": 1848, "name": "알집매트", "__typename": "Brand" },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3219211,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": true,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-22T00:00:00.000+0900",
+          "endAt": "2023-02-28T00:00:00.000+0900",
+          "title": "[3000원쿠폰]맛있게 매운맛! 하남쭈꾸미 350g 3팩 보통매운맛 ",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166691712222306570.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166691712222306570.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166691863328234235.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166691863328234235.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Deal",
+            "id": 1700405,
+            "name": "[3000원쿠폰]맛있게 매운맛! 하남쭈꾸미 350g 3팩 보통매운맛 ",
+            "reviewAvg": 4.68,
+            "reviewCount": 47,
+            "scrapCount": 96,
+            "sellingPrice": 22900,
+            "originalPrice": 29700,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/deals/166857566465630396.jpg",
+            "brand": {
+              "id": 55513,
+              "name": "하남쭈꾸미",
+              "__typename": "Brand"
+            },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3219144,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": false,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": true,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-22T00:00:00.000+0900",
+          "endAt": "2023-03-01T00:00:00.000+0900",
+          "title": "[오늘의딜] [누적리뷰 2,500건] 로엠가구 인테리어 카페 주방의자 BEST 모음 ",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166968326373127396.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166968326373127396.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/162518909273356834.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-162518909273356834.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/163531828584191821.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-163531828584191821.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165899116205351073.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165899116205351073.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166856612275225104.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166856612275225104.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/165957935577052868.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-165957935577052868.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/159356210790720974.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-159356210790720974.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Deal",
+            "id": 1395368,
+            "name": "[오늘의딜] [누적리뷰 2,500건] 로엠가구 인테리어 카페 주방의자 BEST 모음 ",
+            "reviewAvg": 4.35,
+            "reviewCount": 2480,
+            "scrapCount": 1619,
+            "sellingPrice": 19900,
+            "originalPrice": 21900,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/deals/165354661004088089.jpg",
+            "brand": { "id": 36661, "name": "로엠가구", "__typename": "Brand" },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3169762,
+                "thumbnailBadgeId": 1676339604,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633960040654859.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": false,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-22T00:00:00.000+0900",
+          "endAt": "2023-03-01T00:00:00.000+0900",
+          "title": "[오늘의딜]누적판매 100만! 국민 전동드릴/광택기",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166131821152025464.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166131821152025464.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166908807208190077.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166908807208190077.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166131825112170361.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166131825112170361.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166131859277933141.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166131859277933141.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166132843025946227.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166132843025946227.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166132848614674435.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166132848614674435.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166132833009575508.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166132833009575508.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Deal",
+            "id": 966931,
+            "name": "[오늘의딜]누적판매 100만! 국민 전동드릴/광택기",
+            "reviewAvg": 4.7,
+            "reviewCount": 2415,
+            "scrapCount": 3021,
+            "sellingPrice": 19500,
+            "originalPrice": 39000,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/deals/165345845451800196.jpg",
+            "brand": { "id": 15348, "name": "툴앤툴", "__typename": "Brand" },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3218638,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": true,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        },
+        {
+          "startAt": "2023-02-22T00:00:00.000+0900",
+          "endAt": "2023-03-01T00:00:00.000+0900",
+          "title": "[오늘의딜][단독/최대 40%] 땡스소윤 시즌3 냉동용기 밀폐용기 단품 세트구성",
+          "subImages": [
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/productions/166501893744422962.png",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-productions-166501893744422962.png/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/10288740/1672729754599.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-10288740-1672729754599.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/10288740/1663142384872.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-10288740-1663142384872.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/10288740/1663142387847.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-10288740-1663142387847.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/10288740/1663143448397.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-10288740-1663143448397.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/10288740/1666758335688.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-10288740-1666758335688.jpg/2560/2560",
+              "__typename": "Image"
+            },
+            {
+              "originalImageUrl": "https://bucketplace-v2-development.s3.ap-northeast-1.amazonaws.com/uploads/openapi/10288740/1670386944654.jpg",
+              "resizedImageUrl": "https://image.ohou.se/image/central_crop/bucketplace-v2-development/uploads-openapi-10288740-1670386944654.jpg/2560/2560",
+              "__typename": "Image"
+            }
+          ],
+          "production": {
+            "type": "Deal",
+            "id": 526426,
+            "name": "[오늘의딜][단독/최대 40%] 땡스소윤 시즌3 냉동용기 밀폐용기 단품 세트구성",
+            "reviewAvg": 4.66,
+            "reviewCount": 712,
+            "scrapCount": 8127,
+            "sellingPrice": 29900,
+            "originalPrice": 49900,
+            "originalImageUrl": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/deals/166028499056854044.gif",
+            "brand": { "id": 28034, "name": "땡스소윤", "__typename": "Brand" },
+            "badges": [
+              {
+                "position": 3,
+                "id": 3219856,
+                "thumbnailBadgeId": 1676339658,
+                "image": {
+                  "url": "https://bucketplace-v2-development.s3.amazonaws.com/uploads/admins/thumbnail_badges/167633965632623130.png",
+                  "width": null,
+                  "height": null,
+                  "__typename": "BadgeImage"
+                },
+                "__typename": "Badge"
+              }
+            ],
+            "isSpecialPrice": true,
+            "isSelling": true,
+            "isSoldOut": false,
+            "isScrap": false,
+            "isFreeDelivery": false,
+            "isDiscontinued": false,
+            "isDiscounted": false,
+            "isOverseasPurchase": false,
+            "isRetailDelivery": false,
+            "isThirdPartyLogistic": false,
+            "isDepartureToday": false,
+            "deliveryStartAt": null,
+            "deliveryServiceCode": "NORMAL",
+            "benefitBadges": [],
+            "__typename": "Product"
+          },
+          "__typename": "TodayDeal"
+        }
+      ],
+      "__typename": "TodayDeals"
+    }
+  }
+}
