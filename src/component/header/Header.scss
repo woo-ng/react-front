@@ -5,6 +5,17 @@
   max-width: var(--app-width);
   min-width: var(--app-min-width);
 
+  ul,
+  li,
+  a,
+  button {
+    all: unset;
+  }
+
+  li {
+    list-style: none;
+  }
+
   .fa-solid,
   .fas {
     font-family: 'Font Awesome 6 Free';

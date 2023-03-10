@@ -1,0 +1,208 @@
+#tab2 {
+  li {
+    list-style: none;
+    a {
+      text-decoration: none;
+      color: black;
+      font-size: 9pt;
+      line-height: 25pt;
+    }
+  }
+  p {
+    line-height: 0.5em;
+  }
+  .container2 {
+    display: flex;
+    padding-top: 10pt;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 860px;
+    margin-left: 50px;
+    justify-content: space-between;
+  }
+
+  .left1 {
+    /* margin: 20px auto 40px auto; */
+    padding: 0;
+    display: inline-block;
+    width: 80%;
+    height: 200px;
+  }
+
+  .imageRound {
+    width: 70px;
+    margin-top: 10px;
+    display: block;
+    float: left;
+    padding-right: 10px;
+  }
+
+  .nick {
+    font-size: 12px;
+    color: gray;
+    /* margin-top: 10px; */
+    display: flex;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-left: 5px;
+    margin-top: 20px;
+    width: 100px;
+  }
+
+  .writeTime {
+    font-size: 12px;
+    color: gray;
+    display: flex;
+    margin-left: 5px;
+    margin: 5px;
+    width: 100px;
+  }
+
+  .writeBox {
+    width: 100%;
+    clear: both;
+  }
+
+  .reviewBox {
+    padding-top: 10pt;
+    width: 100%;
+    display: flex; /* 박스들이 기본적으로 가로정렬로 배치 */
+    justify-content: center;
+    text-align: center;
+    min-width: 1080px;
+    border-radius: 10px;
+  }
+
+  .reviewBox2 {
+    display: flex; /* 박스들이 기본적으로 가로정렬로 배치 */
+    background-color: rgb(250, 240, 230);
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 800px;
+    height: 120pt;
+    border-width: 1px;
+    border-color: #b9b9b9;
+    /* border-style: none solid none none; */
+    display: inline-block;
+  }
+  #starPoint2 {
+    color: #ff8585;
+  }
+  .reviewDate {
+    display: flex;
+    font-size: 12px;
+    color: gray;
+    margin: 5px;
+  }
+  .starReview2 {
+    float: left;
+    font-size: 25pt;
+    color: #ff8585;
+    margin-left: 80px;
+    padding-top: 55px;
+  }
+  .reviewPoint {
+    font-size: 30pt;
+    margin-left: 4pt;
+    font-weight: bolder;
+    float: left;
+    padding-top: 55px;
+  }
+
+  .proSize {
+    margin-right: 50px;
+    padding-top: 35px;
+    margin-bottom: 20px;
+    display: fixed;
+    min-width: 500px;
+  }
+
+  .progress {
+    box-sizing: border-box;
+    width: 40%;
+    float: right;
+    margin-right: 40px;
+    height: 13px;
+    margin-top: 0.5em;
+    background-color: white;
+    font-size: 8pt;
+  }
+
+  .reviewText {
+    margin-top: 30pt;
+    width: 100%;
+    max-width: 860px;
+    display: flex;
+  }
+  .review2 {
+    font-weight: 700;
+    float: left;
+    width: 5%;
+    margin-left: 30px;
+  }
+
+  .reviewNum {
+    color: #ff8585;
+    font-weight: bolder;
+    float: left;
+    width: 100%;
+  }
+  .reviewWrite {
+    width: 14%;
+    float: right;
+  }
+
+  #reviewWrite {
+    color: #ff8585;
+    font-weight: bolder;
+  }
+  #writeTitle {
+    font-size: 16px;
+    font-weight: bolder;
+    padding-top: 15px;
+    width: 300px;
+    /* clear: both; */
+  }
+
+  #writeContent {
+    font-size: 13px;
+    color: rgb(157, 157, 157);
+    letter-spacing: -2px;
+    font-weight: 500;
+    /* clear: both; */
+    width: 50%;
+  }
+
+  .selectBar {
+    padding-top: 10pt;
+    display: flex; /* 박스들이 기본적으로 가로정렬로 배치 */
+    justify-content: center;
+    /* text-align: center; */
+    gap: 0.5em;
+  }
+  .selectUl {
+    float: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5em;
+    width: 40%;
+  }
+
+  .label {
+    text-align: center;
+  }
+
+  & > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .iphone {
+    display: inline-block;
+    width: 250px;
+  }
+}

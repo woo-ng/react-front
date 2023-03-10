@@ -1,0 +1,334 @@
+.ani-navbar {
+  width: 300px;
+  height: 100%;
+  padding: 15px;
+  position: fixed;
+  z-index: 5;
+  text-align: right;
+  transition: all 1s;
+  transform: translateX(-150px);
+  letter-spacing: -2px;
+  border-radius: 10px;
+  color: #898989;
+  &:hover {
+    transform: translateX(0px);
+  }
+}
+
+.selling {
+  display: flex; /* 박스들이 기본적으로 가로정렬로 배치 */
+  flex-wrap: wrap; /* 폭이 상대적으로 몇배인지 결정 */
+  justify-content: center; /* 좌우 정렬*/
+  align-items: flex-start;
+  gap: 1em;
+
+  /* 메인사진 */
+  .productPicture {
+    margin-top: 7%;
+    border-radius: 10px;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    object-fit: contain;
+    flex-grow: 2; /* 폭이 상대적으로 몇배인지 결정 */
+    /* align-content: stretch; */
+  }
+
+  /* 제품 정보 */
+  .all > div {
+    width: 460px;
+  }
+
+  .product {
+    position: relative;
+    width: 500px;
+  }
+
+  #timer {
+    background-color: #ff8585;
+    padding: 7px;
+    width: 13em;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    position: absolute;
+    z-index: 1;
+    right: 1em;
+    bottom: 1em;
+    font-size: 14px;
+  }
+
+  .companyName {
+    font-size: 13px;
+    font-weight: 900;
+    color: gray;
+    margin-top: 30px;
+  }
+
+  .title {
+    font-size: 20px;
+    margin-top: -10px;
+  }
+
+  .starReview {
+    margin-top: -15px;
+  }
+  .star {
+    color: #ff8585;
+    font-weight: 900;
+    letter-spacing: -1px;
+  }
+
+  .review {
+    color: #ff8585;
+    font-weight: 900;
+    font-size: 15px;
+    letter-spacing: -1px;
+    margin-left: 5px;
+  }
+
+  .grade {
+    color: rgb(72, 72, 72);
+    font-size: 18px;
+    letter-spacing: -1px;
+    font-weight: 700;
+    margin-right: 5px;
+    color: #ff8585;
+  }
+
+  .firstPrice {
+    text-decoration: line-through;
+    color: rgb(169, 169, 169);
+  }
+
+  .gradeFirst {
+    margin-top: -15px;
+  }
+
+  .price {
+    font-size: 32px;
+    font-weight: 900;
+  }
+
+  .won {
+    font-size: 25px;
+    margin-left: -10px;
+  }
+
+  .priceWon {
+    margin-top: -10px;
+  }
+
+  .benefit {
+    color: gray;
+    font-weight: 700;
+    font-size: 14px;
+    margin-right: 5px;
+  }
+  .contents {
+    line-height: -3pt;
+  }
+
+  .point {
+    font-weight: 900;
+  }
+
+  .saving {
+    font-size: 14px;
+    margin-left: 5px;
+  }
+
+  .benefit2 {
+    font-size: 14px;
+    margin-left: 33px;
+    margin-top: 3px;
+    width: 425px;
+  }
+
+  .benefit3 {
+    font-size: 14px;
+    margin-left: 33px;
+    margin-top: -10px;
+  }
+
+  .delivery {
+    color: gray;
+    font-weight: 700;
+    font-size: 14px;
+    margin-top: 0px;
+    margin-right: 5px;
+  }
+
+  .free {
+    font-size: 14px;
+    font-weight: 900;
+  }
+  .selfDelivery {
+    margin-left: 33px;
+    margin-top: 3px;
+    font-size: 14px;
+  }
+
+  #brandBtn {
+    border-radius: 10px;
+    border: 1.5px solid #ff8585;
+    background-color: #ff8585;
+    color: white;
+    font-weight: 700;
+    width: 7em;
+    letter-spacing: -1px;
+    /* margin-left: px; */
+    margin-bottom: 15px;
+    margin-right: 10px;
+    float: right;
+  }
+
+  .contents2 {
+    width: 450px;
+    height: 30px;
+    background-color: rgb(244, 244, 244);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    letter-spacing: -1px;
+    font-size: 14px;
+    line-height: 30px;
+    margin-top: 20px;
+  }
+
+  .date {
+    margin-left: 20px;
+    color: #ff8585;
+    font-weight: 900;
+  }
+
+  #user-option {
+    border-color: #ff8585;
+    width: 450px;
+    height: 30px;
+    text-align: center;
+    letter-spacing: -1px;
+    border-radius: 5px;
+    outline: 0px;
+  }
+
+  .companyName2 {
+    font-weight: 700;
+    letter-spacing: -1px;
+    margin-bottom: 10px;
+  }
+
+  .moneyBox {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .money {
+    font-weight: 700;
+    font-size: 10pt;
+    gap: 2em;
+  }
+
+  .money2 {
+    font-weight: 900;
+    font-size: 16pt;
+    float: right;
+    margin-right: 1em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+  .cartPur {
+    display: inline-block;
+  }
+  #cart {
+    padding: 15px 80px;
+    font-size: 12pt;
+    font-weight: 900;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1.5px solid #ff8585;
+    color: #ff8585;
+    letter-spacing: -1px;
+    margin-right: 2px;
+  }
+
+  #cart:hover {
+    animation-name: shakeLeft;
+    animation-duration: 1s;
+  }
+
+  .cont_area {
+    width: 80%;
+    max-width: 1080px;
+    overflow: hidden;
+  }
+
+  @keyframes shakeLeft {
+    0% {
+      transform: rotate(0deg);
+    }
+    25% {
+      transform: rotate(-3deg);
+    }
+    50% {
+      tranform: rotate(3deg);
+    }
+    75% {
+      transform: rotate(-3deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+
+  #purchase {
+    padding: 15px 80px;
+    font-size: 12pt;
+    font-weight: 900;
+    border-radius: 5px;
+    border: 1.5px solid #ff8585;
+    background-color: #ff8585;
+    color: white;
+    letter-spacing: -1px;
+  }
+
+  #purchase:hover {
+    animation-name: shakeRight;
+    animation-duration: 1s;
+  }
+
+  @keyframes shakeRight {
+    0% {
+      transform: rotate(0deg);
+    }
+    25% {
+      transform: rotate(3deg);
+    }
+    50% {
+      tranform: rotate(-3deg);
+    }
+    75% {
+      transform: rotate(-3deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #timer {
+    background-color: #ff8585;
+    padding: 7px;
+    width: 13em;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    position: absolute;
+    z-index: 1;
+    right: 1em;
+    bottom: 1em;
+    font-size: 14px;
+  }
+}

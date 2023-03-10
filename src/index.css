@@ -4,20 +4,18 @@ html {
     'Malgun Gothic', sans-serif;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 body {
-  height: 100vh;
-  margin: 0;
-  padding: 0;
+  min-width: 996px;
+  font-family: 'Helvetica';
+  display: block;
+  margin: 0 auto;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
-ul,
-li,
-a,
-button {
-  all: unset;
+.spacing {
+  letter-spacing: -2px;
+  word-spacing: -1px;
 }

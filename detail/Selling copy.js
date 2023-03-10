@@ -1,5 +1,11 @@
 import React, { useEffect } from 'react';
 import './Selling.scss';
+import axios from 'axios';
+
+const fetchProducts = async () => {
+  const { data } = await axios.get('http://localhost:3000/todaydeals.json');
+  return data;
+};
 
 function setupTimer() {
   let time = 500; // 기준시간 작성
@@ -28,6 +34,13 @@ function setupTimer() {
 }
 
 function Selling() {
+  const { data, isLoading, error } = useQuery('products', fetchProducts);
+
+  if (isLoading) {
+    return <div>Loading...</div>;
+  }
+  console.log(data.data.selling.selling);
+
   useEffect(setupTimer, []);
   return (
     <main class="selling">

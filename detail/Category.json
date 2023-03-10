@@ -1,0 +1,164 @@
+[
+  {
+    "title": "가구",
+    "subCategories": [
+      {
+        "title": "침대",
+        "superSubCategories": [
+          {
+            "title": "침대프레임"
+          },
+          {
+            "title": "침대+매트리스"
+          },
+          {
+            "title": "침대부속가구"
+          }
+        ]
+      },
+      {
+        "title": "매트리스·토퍼",
+        "superSubCategories": [
+          {
+            "title": "매트리스"
+          },
+          {
+            "title": "토퍼"
+          }
+        ]
+      },
+      {
+        "title": "테이블·식탁·책상",
+        "superSubCategories": [
+          {
+            "title": "거실·소파테이블"
+          },
+          {
+            "title": "사이드테이블"
+          },
+          {
+            "title": "식탁"
+          },
+          {
+            "title": "책상"
+          },
+          {
+            "title": "좌식테이블"
+          }
+        ]
+      },
+      {
+        "title": "소파",
+        "superSubCategories": [
+          {
+            "title": "일반소파"
+          },
+          {
+            "title": "리클라이너"
+          },
+          {
+            "title": "소파베드"
+          },
+          {
+            "title": "좌식소파"
+          },
+          {
+            "title": "소파스툴"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "title": "패브릭",
+    "subCategories": [
+      {
+        "title": "침구세트"
+      },
+      {
+        "title": "커튼·부자재",
+        "superSubCategories": [
+          {
+            "title": "암막커튼"
+          },
+          {
+            "title": "일반커튼"
+          },
+          {
+            "title": "레이스·속커튼"
+          },
+          {
+            "title": "가리개커튼"
+          },
+          {
+            "title": "바란스·주방커튼"
+          },
+          {
+            "title": "커튼부자재"
+          },
+          {
+            "title": "캐노피"
+          }
+        ]
+      },
+      {
+        "title": "매트리스·토퍼",
+        "superSubCategories": [
+          {
+            "title": "매트리스"
+          },
+          {
+            "title": "토퍼"
+          }
+        ]
+      },
+      {
+        "title": "러그·카페트",
+        "superSubCategories": [
+          {
+            "title": "극세사·단모러그"
+          },
+          {
+            "title": "사이잘룩러그"
+          },
+          {
+            "title": "샤기러그"
+          },
+          {
+            "title": "면·핸드메이드러그"
+          },
+          {
+            "title": "페르시안러그"
+          },
+          {
+            "title": "기타러그"
+          }
+        ]
+      },
+      {
+        "title": "이불·이불솜",
+        "superSubCategories": [
+          {
+            "title": "극세사·단모러그"
+          },
+          {
+            "title": "사이잘룩러그"
+          },
+          {
+            "title": "샤기러그"
+          },
+          {
+            "title": "면·핸드메이드러그"
+          },
+          {
+            "title": "페르시안러그"
+          },
+          {
+            "title": "기타러그"
+          }
+        ]
+      }
+    ]
+  }
+]

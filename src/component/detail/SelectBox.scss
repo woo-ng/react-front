@@ -1,0 +1,89 @@
+.selectBox * {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.selectBox {
+  position: relative;
+  width: 200px;
+  height: 35px;
+  border-radius: 5px;
+  border: 1px solid #ff8585;
+  background-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.selectBox:after {
+  content: '';
+  display: block;
+  width: 2px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 35px;
+  background: white;
+  text-align: center;
+}
+
+.selectBox .label {
+  display: flex;
+  align-items: center;
+  width: inherit;
+  height: inherit;
+  border: 0 none;
+  outline: 0 none;
+  padding-left: 15px;
+  background: transparent;
+  cursor: pointer;
+  text-align: center;
+}
+
+.selectBox ul {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  width: 100%;
+  background: white;
+  list-style-type: none;
+  padding: 0;
+  border-radius: 6px;
+  overflow: hidden;
+  max-height: 0;
+  transition: 0.1s ease-in;
+  text-align: center;
+}
+
+.selectBox.active ul {
+  max-height: 500px;
+  border: 1px solid #ff8585;
+}
+
+.selectBox li {
+  border-bottom: 1px solid #ff8585;
+  padding: 5px 20px 5px;
+  transition: 0.1s;
+}
+
+.selectBox li:hover {
+  background-color: #ff8585;
+}
+
+.selectBox li:last-child {
+  border-bottom: 0 none;
+}
+
+/* 스크롤 커스텀 */
+.selectBox ul::-webkit-scrollbar {
+  width: 6px;
+}
+.selectBox ul::-webkit-scrollbar-track {
+  background: transparent;
+}
+.selectBox ul::-webkit-scrollbar-thumb {
+  background: #ff8585;
+  border-radius: 45px;
+}
+.selectBox ul::-webkit-scrollbar-thumb:hover {
+  background: #ff8585;
+}

@@ -1,0 +1,42 @@
+.optionLayer {
+  background-color: rgb(244, 244, 244);
+  border-radius: 5px;
+  padding: 3%;
+  margin-top: 5px;
+  width: 450px;
+}
+
+#removeBtn {
+  background-color: rgb(0, 0, 0, 0);
+  border-style: none;
+  font-weight: 900;
+  color: #898989;
+  float: right;
+  margin-left: 5pt;
+}
+
+.money3 {
+  font-size: 12pt;
+  font-weight: 900;
+  float: right;
+}
+
+#amount {
+  font-size: 10pt;
+  width: 14%;
+  text-align: center;
+  margin-left: 1em;
+  padding: 5px 0px 5px 0px;
+}
+.optionLayer text {
+  margin-left: 1em;
+}
+
+.btnBox {
+  margin-top: 30px;
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

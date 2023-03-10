@@ -6,7 +6,7 @@ import Feed from './component/layout/Feed';
 import Login from './component/layout/Login';
 import Main from './component/layout/Main';
 import Member from './component/layout/Member';
-import Selling from './component/layout/Selling';
+import Selling from './component/detail/Selling';
 import TodayDeals from './component/layout/TodayDeals';
 import FAQ from './cs/FAQ';
 
