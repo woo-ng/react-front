@@ -1,9 +1,8 @@
 import axios from 'axios';
-import { useEffect, useRef } from 'react';
 import { useQuery } from 'react-query';
-import Header from '../header/Header';
-import './RecommendTab.scss';
 import styles from '../layout/TodayDeal.module.scss';
+import Product from '../Product';
+import './RecommendTab.scss';
 
 const fetchProducts = async () => {
   const { data } = await axios.get('http://localhost:3000/todaydeals.json');
@@ -43,29 +42,6 @@ function RecommendTab() {
         ))}
       </div>
     </div>
-  );
-}
-
-function Product(props) {
-  return (
-    <article class={styles.product}>
-      <a href={`productions/${props.id}`}>
-        <div class={styles.img_container}>
-          <img class={styles.picture} src={props.src} />
-        </div>
-        <div class={styles.companyName}>{props.companyName}</div>
-        <span class={styles.title}>{props.title}</span>
-        <div>
-          <span class={styles.discountRate}>{props.discountRate}</span>
-          <span class={styles.price}>{props.price}</span>
-        </div>
-        <div>
-          <span class={styles.star}>★</span>
-          <span class={styles.grade}>{props.grade}</span>
-          <span class={styles.review}>{props.review}</span>
-        </div>
-      </a>
-    </article>
   );
 }
 

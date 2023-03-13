@@ -60,7 +60,7 @@ function Selling() {
             <p class="title">{data?.goods_name}</p>
             <p class="starReview">
               <span class="star">★★★★★</span>
-              <span class="review">533개 리뷰</span>
+              <span class="review">1개 리뷰</span>
             </p>
             <p class="gradeFirst">
               <span class="grade">56.5%</span>
