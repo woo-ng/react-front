@@ -36,6 +36,9 @@ function Selling() {
   const { data, isLoading, error } = useQuery('product', fetchProduct);
   useEffect(init, []);
   console.log(data);
+  const discountedPrice = data?.goods_price * (1 - data?.goods_discount);
+  const formattedPrice = discountedPrice?.toLocaleString();
+
   return (
     <>
       <Header />
@@ -60,14 +63,16 @@ function Selling() {
             <p class="title">{data?.goods_name}</p>
             <p class="starReview">
               <span class="star">★★★★★</span>
-              <span class="review">533개 리뷰</span>
+              <span class="review">1개 리뷰</span>
             </p>
             <p class="gradeFirst">
-              <span class="grade">56.5%</span>
-              <span class="firstPrice">{data?.goods_price}</span>
+              <span class="grade">{data?.goods_discount * 100}%</span>
+              <span class="firstPrice">
+                {data?.goods_price.toLocaleString()}
+              </span>
             </p>
             <p class="priceWon">
-              <span class="price"> 899,000 </span>
+              <span class="price">{formattedPrice}</span>
               <span class="won">원</span>
             </p>
             <span class="benefit">혜택</span>
@@ -100,11 +105,7 @@ function Selling() {
             >
               브랜드홈 &gt;
             </button>
-            <SellingOptions />
-            <div class="moneyBox">
-              <span class="money">주문금액</span>
-              <span class="money2">0원</span>
-            </div>
+            <SellingOptions price={discountedPrice} />
             <p />
             <div class="cartPur">
               <button
