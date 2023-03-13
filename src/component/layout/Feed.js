@@ -4,7 +4,7 @@ import { useSearchParams } from 'react-router-dom';
 import Header from '../header/Header';
 import './Feed.scss';
 
-const url = 'http://localhost:8080/feed.json';
+const url = 'https://woong-backend.fly.dev/feed.json';
 
 function fetchProducts({ queryKey, pageParam = 1 }) {
   return fetch(

@@ -33,7 +33,7 @@ function SellingOptions(props) {
           <option value="4">4</option>
           <option value="5">5</option>
         </select>
-        <span className="money3">0원</span>
+        <span className="money3">{props.price}원</span>
       </div>
     );
     setOptionList([...optionList, $layer]);
