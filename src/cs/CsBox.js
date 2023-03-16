@@ -1,18 +1,18 @@
-import React from "react";
-import "./CsBox.css";
+import React from 'react';
+import './CsBox.css';
 
 class CsBox extends React.Component {
   componentDidMount() {
-    window.addEventListener("hashchange", this.hashChanged, false);
+    window.addEventListener('hashchange', this.hashChanged, false);
   }
 
   componentWillUnmount() {
-    window.removeEventListener("hashchange", this.hashChanged, false);
+    window.removeEventListener('hashchange', this.hashChanged, false);
   }
 
   getHash(url) {
-    let hash = url.split("#")[1];
-    return hash.split("__");
+    let hash = url.split('#')[1];
+    return hash.split('__');
   }
 
   hashChanged = (e) => {
@@ -21,7 +21,7 @@ class CsBox extends React.Component {
   };
 
   handleClick = (e) => {
-    let [tab, question] = this.getHash(e.target.getAttribute("href"));
+    let [tab, question] = this.getHash(e.target.getAttribute('href'));
     this.props.handleHash(tab, question);
   };
 
@@ -31,28 +31,40 @@ class CsBox extends React.Component {
         <h2>무엇을 도와드릴까요?</h2> <br />
         <span class="faq-mark">Q</span>
         <span className="faq-text">
-          <a onClick={this.handleClick} href="/customer_center#category2__deliveryFee">
+          <a
+            onClick={this.handleClick}
+            href="/customer_center#category2__deliveryFee"
+          >
             배송비는 얼마인가요?
           </a>
         </span>
         <br />
         <span class="faq-mark">Q</span>
         <span className="faq-text">
-          <a onClick={this.handleClick} href="/customer_center#category3__orderCancel">
+          <a
+            onClick={this.handleClick}
+            href="/customer_center#category3__orderCancel"
+          >
             주문 취소는 어떻게 하나요?
           </a>
         </span>
         <br />
         <span class="faq-mark">Q</span>
         <span className="faq-text">
-          <a onClick={this.handleClick} href="/customer_center#category7__productDetail">
+          <a
+            onClick={this.handleClick}
+            href="/customer_center#category7__productDetail"
+          >
             제품의 자세한 정보를 알고 싶어요
           </a>
         </span>
         <br />
         <span class="faq-mark">Q</span>
         <span className="faq-text">
-          <a onClick={this.handleClick} href="/customer_center#category4__defectiveProduct">
+          <a
+            onClick={this.handleClick}
+            href="/customer_center#category4__defectiveProduct"
+          >
             제품이 불량일때는?
           </a>
         </span>

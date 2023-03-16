@@ -1,74 +1,71 @@
 .faq-mark {
-    width: 28px;
-    height: 28px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 50%;
-    font-size: 16px;
-    line-height: 20px;
-    color: #ff8585;
-    border: 1px solid rgb(234, 237, 239);
-    box-shadow: rgb(63 71 77 / 5%) 0px 2px 6px;
-
+  width: 28px;
+  height: 28px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ff8585;
+  border: 1px solid rgb(234, 237, 239);
+  box-shadow: rgb(63 71 77 / 5%) 0px 2px 6px;
 }
 .HelpBox {
-    float: left;
-    height: 400px;
-    width: 45%;
-    margin-top: 30px;
-    margin-left: 20px;
-    margin-right: 20px;
+  float: left;
+  height: 400px;
+  width: 45%;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 .HelpBox > span {
-    margin-bottom: 15px;
-    margin-left: 20px;
+  margin-bottom: 15px;
+  margin-left: 20px;
 }
 
 .HelpBox > h2 {
-    text-align: center;
+  text-align: center;
 }
 
 .CsBox {
-    float: right;
-    height: 400px;
-    width: 45%;
-    text-align: center;
-    background-color:#FAFAFA;
-    margin-top: 30px;
-    margin-left: 20px;
-    margin-right: 20px;
+  float: right;
+  height: 400px;
+  width: 45%;
+  text-align: center;
+  background-color: #fafafa;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 .CsBox > #CsTitle {
-    height: 200px;
-    display: block;
-    text-align: left;
-    margin-top: 20px;
+  height: 200px;
+  display: block;
+  text-align: left;
+  margin-top: 20px;
 }
 
 .CsBox > #CsTitle > h2 {
-   display: inline;
-   margin-right: 20px;
-   margin-left: 20px;
+  display: inline;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 .CsBox > #CsTitle > #CsTime {
-    color:#ff8585;
-    
+  color: #ff8585;
 }
 .CsBox > #CsTitle > h3 {
-    margin-left: 20px;
+  margin-left: 20px;
 }
 
-
 #onetoone {
-    align-items: center;
-    flex-wrap: wrap;
-    background-color: #ff8585;
-    border: 1px solid #ff8585;
-    color: white;
-    width: 90%;
-    border-radius: 5px;
-    height: 45px;
-    font-size: 17px;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: #ff8585;
+  border: 1px solid #ff8585;
+  color: white;
+  width: 90%;
+  border-radius: 5px;
+  height: 45px;
+  font-size: 17px;
 }
