@@ -54,7 +54,6 @@
     background: #ff8585;
     border-radius: 5px;
     text-align: center;
-    line-height: 22px;
     cursor: pointer;
     position: relative;
   }
@@ -175,15 +174,14 @@
 
   .header-upper__searchBar {
     width: 33em;
-    margin-top: 6px;
   }
 
   .logo_svg {
-    margin-top: 27px;
+    margin-top: 20px;
   }
   .right_menu {
     display: flex;
-    height: 30px;
+    align-items: center;
     padding-right: 0.4em;
   }
   .service {

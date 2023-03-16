@@ -65,7 +65,7 @@ const Header = () => {
             <Link to="/cart">
               <i className="fas fa-shopping-cart"></i>
             </Link>
-            <ul className="d-flex">
+            <ul className="d-flex align-items-center">
               {user.member_id ? (
                 <>
                   <div>{user.member_name}님 환영합니다.</div>

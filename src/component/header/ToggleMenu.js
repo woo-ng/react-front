@@ -6,7 +6,7 @@ function ToggleMenu(props) {
     setOpenMenu(!openMenu);
   };
   return (
-    <div style={{ margin: '-7px', 'margin-left': '3px' }}>
+    <div>
       <button onClick={toggleMenu} className={props.className}>
         {props.title}
       </button>
