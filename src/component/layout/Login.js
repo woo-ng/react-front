@@ -1,6 +1,9 @@
+import axios from 'axios';
 import { useState } from 'react';
-import './Login.scss';
 import { ReactComponent as Logo } from '../../logo.svg';
+import './Login.scss';
+
+const { REACT_APP_API_URL } = process.env;
 
 function Login() {
   const [memberId, setMemberId] = useState('');
@@ -8,65 +11,64 @@ function Login() {
   const [loginResult, setLoginResult] = useState(null);
 
   function handleLogin() {
-    fetch('/member/login.do', {
-      method: 'POST',
-      body: JSON.stringify({ member_id: memberId, member_pw: memberPw }),
-      headers: {
-        'Content-Type': 'application/json',
-      },
-    })
-      .then((response) => {
-        if (response.ok) {
-          return response.json();
-        } else {
-          setLoginResult('사용자 ID 또는 비밀번호를 잘못 입력하셨습니다.');
-        }
+    axios
+      .post(`${REACT_APP_API_URL}/member/login.do`, {
+        member_id: memberId,
+        member_pw: memberPw,
       })
-      .then((data) => {
-        sessionStorage.setItem('userData', JSON.stringify(data));
-        window.location.href = '/main';
+      .then((response) => {
+        sessionStorage.setItem('userData', JSON.stringify(response.data));
+        window.location.href = '/';
       })
       .catch((error) => {
         console.error(error);
+        let {
+          message,
+          response: { status },
+        } = error;
+        if (status === 404)
+          message = '사용자 ID 또는 비밀번호를 잘못 입력하셨습니다.';
+        setLoginResult(message);
       });
   }
 
   return (
     <>
-      <a href="/">
-        <Logo className="logo_svg" height="43" />
-      </a>
       <div className="wrapper">
         <div className="wrap">
           <form>
             <div className="logo_wrap">
-              <span>Book Mall</span>
+              <a href="/">
+                <Logo />
+              </a>
             </div>
             <div className="login_wrap">
               <div className="id_wrap">
-                <div className="id_input_box">
+                <div className="input-box">
                   <input
-                    className="id_input"
+                    className="input"
                     type="text"
                     name="memberId"
+                    placeholder="아이디"
                     value={memberId}
                     onChange={(event) => setMemberId(event.target.value)}
                   />
                 </div>
               </div>
               <div className="pw_wrap">
-                <div className="pw_input_box">
+                <div className="input-box">
                   <input
-                    className="pw_input"
+                    className="input"
                     type="password"
                     name="memberPw"
+                    placeholder="비밀번호"
                     value={memberPw}
                     onChange={(event) => setMemberPw(event.target.value)}
                   />
                 </div>
               </div>
               {loginResult && <div className="login_warn">{loginResult}</div>}
-              <div className="login_button_wrap">
+              <div className="login_button_wrap" onClick={handleLogin}>
                 <button
                   type="button"
                   className="login_button"

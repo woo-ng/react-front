@@ -22,7 +22,7 @@
 
 ### **`Frontend`**
 
-- JavaScript, React, Bootstrap, jQuery
+- JavaScript, React, Bootstrap, jQuery, SCSS
 
 ### **`Backend`**
 

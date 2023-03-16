@@ -70,7 +70,7 @@ export default function App() {
               <a href="/">
                 <img
                   src="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167262690767101882.png?w=144"
-                  srcset="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167262690767101882.png?w=144"
+                  srcSet="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167262690767101882.png?w=144"
                   class={styles.css_1511w17}
                 />
                 <span class={styles.css_xd55zv}>쇼핑하기</span>
@@ -80,7 +80,7 @@ export default function App() {
               <a href="/">
                 <img
                   src="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167560796594045726.png?w=144"
-                  srcset="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167560796594045726.png?w=144"
+                  srcSet="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167560796594045726.png?w=144"
                   class={styles.css_1511w17}
                 />
                 <span class={styles.css_xd55zv}>오!굿즈</span>
@@ -90,7 +90,7 @@ export default function App() {
               <a href="/today_deals">
                 <img
                   src="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198007152582471.png?w=144"
-                  srcset="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198007152582471.png?w=144 "
+                  srcSet="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198007152582471.png?w=144 "
                   class={styles.css_1511w17}
                 />
                 <span class={styles.css_xd55zv}>오늘의딜</span>
@@ -100,7 +100,7 @@ export default function App() {
               <a href="/">
                 <img
                   src="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167505411234148010.png?w=144"
-                  srcset="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167505411234148010.png?w=144 "
+                  srcSet="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167505411234148010.png?w=144 "
                   class={styles.css_1511w17}
                 />
                 <span class={styles.css_xd55zv}>취향의발견</span>
@@ -110,7 +110,7 @@ export default function App() {
               <a href="/">
                 <img
                   src="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198009533480922.png?w=144"
-                  srcset="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198009533480922.png?w=144 "
+                  srcSet="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198009533480922.png?w=144 "
                   class={styles.css_1511w17}
                 />
                 <span class={styles.css_xd55zv}>식품관</span>
@@ -120,7 +120,7 @@ export default function App() {
               <Link to="/self">
                 <img
                   src="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198010271968429.png?w=144"
-                  srcset="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198010271968429.png?w=144"
+                  srcSet="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198010271968429.png?w=144"
                   class={styles.css_1511w17}
                 />
                 <span class={styles.css_xd55zv}>집들이</span>
@@ -130,7 +130,7 @@ export default function App() {
               <a href="/">
                 <img
                   src="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198011151662026.png?w=144"
-                  srcset="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198011151662026.png?w=144"
+                  srcSet="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198011151662026.png?w=144"
                   class={styles.css_1511w17}
                 />
                 <span class={styles.css_xd55zv}>꿀잼시리즈</span>
@@ -140,7 +140,7 @@ export default function App() {
               <a href="/">
                 <img
                   src="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198012024333402.png?w=144"
-                  srcset="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198012024333402.png?w=144"
+                  srcSet="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198012024333402.png?w=144"
                   class={styles.css_1511w17}
                 />
                 <span class={styles.css_xd55zv}>빠른배송</span>
@@ -150,7 +150,7 @@ export default function App() {
               <a href="/">
                 <img
                   src="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198021046015480.png?w=144"
-                  srcset="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198021046015480.png?w=144"
+                  srcSet="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198021046015480.png?w=144"
                   class={styles.css_1511w17}
                 />
                 <span class={styles.css_xd55zv}>쉬운이사</span>
@@ -160,7 +160,7 @@ export default function App() {
               <a href="/">
                 <img
                   src="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198022841390557.png?w=144"
-                  srcset="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198022841390557.png?w=144"
+                  srcSet="https://image.ohou.se/i/bucketplace-v2-development/uploads/shortcut/home_feed_shortcut_sets/167198022841390557.png?w=144"
                   class={styles.css_1511w17}
                 />
                 <span class={styles.css_xd55zv}>리모델링</span>

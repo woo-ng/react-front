@@ -19,3 +19,16 @@ body {
   letter-spacing: -2px;
   word-spacing: -1px;
 }
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ul,
+li,
+a,
+button {
+  all: unset;
+  cursor: pointer;
+}

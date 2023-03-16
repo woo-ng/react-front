@@ -4,11 +4,11 @@ import { useSearchParams } from 'react-router-dom';
 import Header from '../header/Header';
 import './Feed.scss';
 
-const url = 'http://localhost:8080/feed.json';
+const { REACT_APP_API_URL } = process.env;
 
 function fetchProducts({ queryKey, pageParam = 1 }) {
   return fetch(
-    `${url}?keyword=${queryKey[0]}&pageNum=${pageParam}&amount=30&type=T`
+    `${REACT_APP_API_URL}/feed.json?keyword=${queryKey[0]}&pageNum=${pageParam}&amount=30&type=T`
   ).then((res) => res.json());
 }
 
@@ -58,19 +58,19 @@ function Feed() {
     <>
       <Header />
       <div>
-        <div class="grid grid-cols-4">
+        <div class="d-flex flex-wrap">
           {data?.pages.map((page, i) => (
             <React.Fragment key={i}>
               {page.productions.map((product) => (
-                <article class="dis col-span-1" key={product.id}>
+                <article class="dis" key={product.id}>
                   <div class="dis-img">
-                    <a href="./feed">
+                    <a href={`./feed?query=${query}`}>
                       <img src={product.image_url} alt={product.name} />
                     </a>
                   </div>
 
                   <div class="dis-info">
-                    <a href="./feed">
+                    <a href={`./feed?query=${query}`}>
                       <p>{product.maker_name}</p>
                       <h3>{product.goods_name}</h3>
                       <span class="price">{product.goods_price} KRW</span>
