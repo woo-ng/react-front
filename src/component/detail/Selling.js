@@ -106,11 +106,7 @@ function Selling() {
             >
               브랜드홈 &gt;
             </button>
-            <SellingOptions price={formattedPrice} />
-            <div class="moneyBox">
-              <span class="money">주문금액</span>
-              <span class="money2">0원</span>
-            </div>
+            <SellingOptions price={discountedPrice} />
             <p />
             <div class="cartPur">
               <button
