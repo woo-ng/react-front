@@ -13,12 +13,12 @@ function Product(props) {
         <span class={styles.title}>{props.title}</span>
         <div>
           <span class={styles.discountRate}>{props.discountRate}</span>
-          <span class={styles.price}>{props.price}</span>
+          <span class={styles.price}>{props.price.toLocaleString()}</span>
         </div>
         <div>
           <span class={styles.star}>★</span>
           <span class={styles.grade}>{props.grade}</span>
-          <span class={styles.review}>{props.review}</span>
+          <span class={styles.review}>{props.review.toLocaleString()}</span>
         </div>
       </a>
     </article>

@@ -14,7 +14,7 @@ function QuestionTab() {
                   <div class="innerText">
                     <p>상품 및 옵션</p>
                     <input id="sub" type="checkbox" name="checkbox" />
-                    <label for="sub">선택안함</label>
+                    <label htmlFor="sub">선택안함</label>
                   </div>
 
                   <SelectBox label="상품을 선택하세요.">

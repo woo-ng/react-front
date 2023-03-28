@@ -7,7 +7,7 @@ function ReviewPage() {
       <div class="reviewBar">
         <div class="reviewText">
           <span class="review2">리뷰</span>
-          <span class="reviewNum">2개</span>
+          <span class="reviewNum">1개</span>
           <div class="reviewWrite">
             <a href="#" id="reviewWrite">
               리뷰쓰기
