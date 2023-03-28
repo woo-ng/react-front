@@ -16,7 +16,7 @@ export const QnaCard = ({ item, index, cardOnOff, setCardOnOff }) => {
     <div className="faq-card" key={index}>
       <div
         ref={element}
-        id={item.key ?? `${item.category}__${item.question}`}
+        key={item.key ?? `${item.category}__${item.question}`}
         className="faq-card-title"
         onClick={() => {
           setCardOnOff((cardOnOff) =>

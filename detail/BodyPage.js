@@ -47,13 +47,25 @@ function BodyPage() {
           </div>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="/img/ip1.jpg" class="cover d-block w-100" alt="..." />
+              <img
+                src="/img/ip1.jpg"
+                class="background-cover d-block w-100"
+                alt="..."
+              />
             </div>
             <div class="carousel-item">
-              <img src="/img/ip2.jpg" class="cover d-block w-100" alt="..." />
+              <img
+                src="/img/ip2.jpg"
+                class="background-cover d-block w-100"
+                alt="..."
+              />
             </div>
             <div class="carousel-item">
-              <img src="/img/ip3.jpg" class="cover d-block w-100" alt="..." />
+              <img
+                src="/img/ip3.jpg"
+                class="background-cover d-block w-100"
+                alt="..."
+              />
             </div>
           </div>
           <button

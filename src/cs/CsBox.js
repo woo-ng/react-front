@@ -93,7 +93,7 @@ class CsBox extends React.Component {
         </div>
 
         <div>
-          <button id="onetoone">1 : 1 문의하기</button>
+          <button id="onetoone" onClick={() => window.location.href = "/bbs/main"}>1 : 1 문의하기</button>
           <br />
         </div>
       </div>
